@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+# highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Les Sphères de Sar
+tagline:          'A Jekyll dqzdqzdqzdzqdqzdq'
+description:      ''
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+paginate: 1
+
+excerpt_separator: <!--more-->
+
+gems: 
+ - jekyll-paginate
+
+github:
+  repo:           https://github.com/poole/hyde
