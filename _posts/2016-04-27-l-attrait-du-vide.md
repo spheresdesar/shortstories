@@ -16,7 +16,7 @@ Son compagnon, le maître mage Rishivi, s’inclina rapidement avant de se hâte
 
 Rishivi plaça le cylindre au centre d’un cercle magique tracé devant Oshan. Ce dernier déposa sa pierre au-dessus. La face supérieure de la boite parut soudainement liquide et le joyau glissa à l’intérieur jusqu’à s’y fondre. 
 
-— Par le grand Voyageur, enfin. 
+— Par le grand Voyageur, enfin. <!--more-->
 
 Oshan se massait les tempes. Au-dessus de lui, un cercle parfait marquait les contours d’un large trou dans le ciel.
 
