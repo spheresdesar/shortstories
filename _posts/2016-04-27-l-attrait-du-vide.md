@@ -4,11 +4,7 @@ title: L'attrait du vide
 date:   2016-04-27 00:00:00 -0700
 category: dm
 ---
-
-# L’attrait du vide
-
-
-        L’air vibrait à ses oreilles et la lumière lui brûlait les yeux. Le ciel se déchira. Le bras de l’enchanteur Oshan tremblait sous l’effort. Il brandissait une pierre rouge reliée par un fin filament de magie à la fissure qui s’agitait de plus en plus.
+L’air vibrait à ses oreilles et la lumière lui brûlait les yeux. Le ciel se déchira. Le bras de l’enchanteur Oshan tremblait sous l’effort. Il brandissait une pierre rouge reliée par un fin filament de magie à la fissure qui s’agitait de plus en plus.
 — J’y suis presque, il ne me reste qu’à le stabiliser. Apporte-moi ce qu’il faut.
 Son compagnon, le maître mage Rishivi, s’inclina rapidement avant de se hâter vers l’astronef. Au pied de la rampe, plusieurs caisses de matériel attendaient. Rishivi ouvrit l’une d’elles et en sortit un long cylindre orné de motifs complexes. Il prononça une formule en langue ancienne, une lueur bleue s’empara de l’objet. 
 — Que fais-tu, donc ? Je ne vais plus tenir longtemps !
@@ -24,8 +20,8 @@ Rishivi ramassa le cylindre, il prononça à nouveau la formule et la lueur s’
 — Et de onze, triompha le maître mage.
 
 
-        La poitrine de l’enchanteur s’élevait doucement. Son essence, épuisée par le flux de magie qui l’avait traversé, peinait à retrouver sa vibration originelle. Le mage ne lui avait pas été d’un grand secours, Rishivi était ce que l’on appelle un éolien, un maître de l’air, mais ce portail avait été si complexe à ouvrir que seul un enchanteur comme Oshan Ranji Sundira en était capable. Ils étaient peu nombreux ceux qui, comme Oshan, savaient manier les quatre éléments, et ce mécanisme d’ouverture avait nécessité une dose adroite de chacun d’entre eux. Les enchanteurs sont loin d’égaler les maitres, mais ils ont une précision qui leur fait souvent défaut.
-        Le mage décida de s’occuper les mains en attendant le réveil de son associé. Il sortit le drone ainsi que sa boite de commande et son récepteur. Une à une, il vérifia la synchronisation des pierres de magie. 
+La poitrine de l’enchanteur s’élevait doucement. Son essence, épuisée par le flux de magie qui l’avait traversé, peinait à retrouver sa vibration originelle. Le mage ne lui avait pas été d’un grand secours, Rishivi était ce que l’on appelle un éolien, un maître de l’air, mais ce portail avait été si complexe à ouvrir que seul un enchanteur comme Oshan Ranji Sundira en était capable. Ils étaient peu nombreux ceux qui, comme Oshan, savaient manier les quatre éléments, et ce mécanisme d’ouverture avait nécessité une dose adroite de chacun d’entre eux. Les enchanteurs sont loin d’égaler les maitres, mais ils ont une précision qui leur fait souvent défaut.
+Le mage décida de s’occuper les mains en attendant le réveil de son associé. Il sortit le drone ainsi que sa boite de commande et son récepteur. Une à une, il vérifia la synchronisation des pierres de magie. 
 
 
 — Voyons ce que cette chose nous cache.
@@ -60,7 +56,7 @@ Le mage jeta la tête en arrière et ferma les yeux. Après un long moment de si
 — Ouais, répondit Rishivi, sans conviction.
 
 
-        Rishivi murmurait devant un panneau déployé sur la paroi de l'appareil. Le visage blême, il tanguait de gauche à droit comme pris d'ivresse.
+Rishivi murmurait devant un panneau déployé sur la paroi de l'appareil. Le visage blême, il tanguait de gauche à droit comme pris d'ivresse.
 — Alors, qu'est-ce que ça dit ? On peut sortir ou pas ?
 — Laisse-moi encore un peu de temps, je ne peux pas aller plus vite. 
 — La terre n'a pas l'air bien avenante, mais j'ai hâte de voir les trésors que cette sphère cache.
@@ -74,7 +70,7 @@ Il se massa la tempe droite.
 Il se traina jusqu’à sa couchette, puisant dans ses dernières réserves.
 
 
-        La plage de rochers s’étirait à perte de vue. Seules quelques maigres touffes d’herbes se détachaient du sol grisâtre et uniforme. Face à la plage, les montagnes escarpées exposaient leur flanc vert gris au soleil jaune de ce monde. Il en fallait plus pour décourager l’enchanteur. Oshan leva les yeux au ciel et admira le ciel d’un bleu pur. Il n’avait jamais vu un tel ciel. 
+La plage de rochers s’étirait à perte de vue. Seules quelques maigres touffes d’herbes se détachaient du sol grisâtre et uniforme. Face à la plage, les montagnes escarpées exposaient leur flanc vert gris au soleil jaune de ce monde. Il en fallait plus pour décourager l’enchanteur. Oshan leva les yeux au ciel et admira le ciel d’un bleu pur. Il n’avait jamais vu un tel ciel. 
 Il trouva sans peine une surface plane assez grande pour son projet. Oshan inspira profondément et entama son incantation d’une voix forte et claire. Répétant inlassablement les mêmes phrases, il dessina des symboles géométriques, des runes et des formules en langue ancienne à l’aide de son bâton. C’était un bâton d’enchanteur des plus ordinaires. Il était en grande partie sculpté dans le bois et son extrémité était recouverte d’or. Traversant le métal de part en part, un trou cubique attendait patiemment qu’un catalyseur prenne place. Mais il n’en avait pas besoin pour ce qu’il était en train de faire. À mesure que le sceau apparaissait sur ce sol étranger, son visage se faisait plus dur. L’enthousiasme l’avait quitté pour laisser place à une intense concentration.
 
 
@@ -136,7 +132,7 @@ Posant négligemment le poisson par terre, Rishivi lui tourna le dos pour retour
 Sans Oshan, il devrait retourner dans l’armée régulière. Non, il n’y retournerait pas.
 
 
-        Les créatures les menèrent jusqu’à leur village à flanc de montagne. C’était un agrégat de maison de pierre et de bois rongés par le sel. L’un des indigènes était parti au-devant d’eux, il se présentait maintenant avec tout le village, autant que les explorateurs pussent en juger. On les guida vers une large place où tapis et coussins avaient été installés à leur intention. Quatre villageois sortirent d’une grotte légèrement en surplomb de la place. Chacun portait sur son dos un cadavre momifié paré d’atours et de vêtements colorés. Ils les déposèrent contre des petits dossiers. Rishivi détourna les yeux pour contrôler son malaise. On leur présenta des plats étranges de graines jaunes ou de racines, puis vint de nombreux chants et des danses surprenantes. 
+Les créatures les menèrent jusqu’à leur village à flanc de montagne. C’était un agrégat de maison de pierre et de bois rongés par le sel. L’un des indigènes était parti au-devant d’eux, il se présentait maintenant avec tout le village, autant que les explorateurs pussent en juger. On les guida vers une large place où tapis et coussins avaient été installés à leur intention. Quatre villageois sortirent d’une grotte légèrement en surplomb de la place. Chacun portait sur son dos un cadavre momifié paré d’atours et de vêtements colorés. Ils les déposèrent contre des petits dossiers. Rishivi détourna les yeux pour contrôler son malaise. On leur présenta des plats étranges de graines jaunes ou de racines, puis vint de nombreux chants et des danses surprenantes. 
 
 
 La nuit tombant, on alluma de larges braseros. Oshan tapota l’épaule de Rishivi avec un sourire malicieux. Il agita un trousseau cliquetant de cubes de tailles identiques, mais de couleurs différentes. Tout enchanteur sortant de l’académie s’était procuré un jeu de catalyseurs comme celui-ci. Oshan était particulièrement fier du sien, il n’y avait pas plus complet. Il choisit un petit cube orange et raccrocha le trousseau à sa ceinture. Rishivi le regarda faire d’un air irrité. Il n’y avait que les enchanteurs pour se pavaner devant les ordinaires. Peut-être même qu’en d’autres lieux,  certaines de ces créatures auraient été des mages, contrairement à lui.
@@ -171,7 +167,7 @@ Alors que la nuit reprenait ses droits, ces mots se propagèrent dans la bouche 
 — Évidemment.
 
 
-        Une tente fut montée et décorée à l'entrée de la grotte. Une fois satisfaits, les villageois guidèrent Oshan et Rishivi à l'intérieur.
+Une tente fut montée et décorée à l'entrée de la grotte. Une fois satisfaits, les villageois guidèrent Oshan et Rishivi à l'intérieur.
 — Ils pensent sérieusement qu'on va dormir ici ? Près de ces cadavres ?
 — C'est sûrement un lieu important pour eux, un lieu sacré. Et je ne pense pas me tromper en disant que nous sommes tout aussi sacrés.
 — Tu te complais trop ici, Oshan. Nous devrions retrouver le vaisseau où nous attend un lit propre et surtout le seul moyen de rentrer chez nous.
@@ -199,5 +195,5 @@ Ce monde était bien trop vide, bien trop différent. Il devait sortir de cette 
 Il s’effondra dans son siège. Son bras tremblant atteignit un bouton qui éclaira les commandes devant lui. Encore quelques heures et il rentrerait chez lui.
 
 
-        Il s’éveilla subitement sans avoir le souvenir de s’être endormi. Il se leva maladroitement et vérifia autour de lui. Personne. Oshan n’avait pas changé d’avis. 
+Il s’éveilla subitement sans avoir le souvenir de s’être endormi. Il se leva maladroitement et vérifia autour de lui. Personne. Oshan n’avait pas changé d’avis. 
 Il a toujours voulu fuir notre monde, il ne s’y sentait pas à sa place, pensa-t-il. Tout comme moi. Mais comment peut-il être prêt à rester ici, pourquoi ce monde-là ? Il ne sait rien de ce monde. Il fait erreur, son ego, ou je ne sais quoi, l’aveugle. Je devrais peut-être aller le chercher ? Non, c’est son choix, il doit assumer. Je peux revenir dans quelque temps, ne serait-ce que pour vérifier qu’il est toujours en vie. Peut-être. Son regard s’arrêta sur la clé du portail. Et si moi aussi je trouvais un monde où je me sentirais à ma place ? Il actionna les moteurs et décolla.
