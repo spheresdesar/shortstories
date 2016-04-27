@@ -1,9 +1,4 @@
 - name: Les découvreurs de mondes
   category: dm
-  color: '#1abc9c'
-  image: '/public/images/test.png'
-
-- name: test
-  category: test
-  color: '#3498db'
+  color: '#333333'
   
