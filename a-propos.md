@@ -3,9 +3,8 @@ layout: page
 title: A propos
 ---
 
-Moi c'est Alice Katovar. Je suis votre guide dans cet univers bien vaste et étrange. J'espère que vous prendrez autant de plaisir que moi à la parcourir. 
-
-A.K.
+> Moi c'est Alice Katovar. Je suis votre guide dans cet univers bien vaste et étrange. J'espère que vous prendrez autant de plaisir que moi à le parcourir. 
+> A.K.
 
 ### Le blog
 Ce blog regroupe des nouvelles inscrites dans un univers unique, celui des Sphères de Sar. Ce sont des **textes complets et accessibles gratuitement à tous**. Les genres vont de la fantaisie classique à la science-fiction en passant par le fantastique et souvent tout à la fois. **Ne vous attendez pas à retrouver une n-ième histoire sur des elfes et des nains ou des combats aux sabres de lumière**. Pour la plupart, ce sont les récits de héros ordinaires ou d'êtres marqués par leur propre réalité. Ils sont là tout autant pour vous emmener ailleurs que pour vous faire réfléchir sur le monde qui se trouve juste sous vos pieds.
