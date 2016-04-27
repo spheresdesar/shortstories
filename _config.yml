@@ -13,7 +13,7 @@ description:      ''
 url:              http://spheresdesar.github.io/shortstories/
 baseurl:          /
 
-paginate: 1
+paginate: 10
 
 excerpt_separator: <!--more-->
 
