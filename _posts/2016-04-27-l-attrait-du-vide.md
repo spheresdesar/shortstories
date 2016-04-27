@@ -4,7 +4,7 @@ title: L'attrait du vide
 date:   2016-04-27 00:00:00 -0700
 category: dm
 ---
-L’air vibrait à ses oreilles et la lumière lui brûlait les yeux. Le ciel se déchira. Le bras de l’enchanteur Oshan tremblait sous l’effort. Il brandissait une pierre rouge reliée par un fin filament de magie à la fissure qui s’agitait de plus en plus.
+&nbsp;&nbsp;&nbsp;&nbsp;L’air vibrait à ses oreilles et la lumière lui brûlait les yeux. Le ciel se déchira. Le bras de l’enchanteur Oshan tremblait sous l’effort. Il brandissait une pierre rouge reliée par un fin filament de magie à la fissure qui s’agitait de plus en plus.
 
 — J’y suis presque, il ne me reste qu’à le stabiliser. Apporte-moi ce qu’il faut.
 
