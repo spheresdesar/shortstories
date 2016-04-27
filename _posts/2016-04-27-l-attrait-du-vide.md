@@ -351,3 +351,6 @@ Il s’effondra dans son siège. Son bras tremblant atteignit un bouton qui écl
 Il s’éveilla subitement sans avoir le souvenir de s’être endormi. Il se leva maladroitement et vérifia autour de lui. Personne. Oshan n’avait pas changé d’avis. 
 
 Il a toujours voulu fuir notre monde, il ne s’y sentait pas à sa place, pensa-t-il. Tout comme moi. Mais comment peut-il être prêt à rester ici, pourquoi ce monde-là ? Il ne sait rien de ce monde. Il fait erreur, son ego, ou je ne sais quoi, l’aveugle. Je devrais peut-être aller le chercher ? Non, c’est son choix, il doit assumer. Je peux revenir dans quelque temps, ne serait-ce que pour vérifier qu’il est toujours en vie. Peut-être. Son regard s’arrêta sur la clé du portail. Et si moi aussi je trouvais un monde où je me sentirais à ma place ? Il actionna les moteurs et décolla.
+
+
+A.K.
