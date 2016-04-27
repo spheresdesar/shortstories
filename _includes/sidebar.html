@@ -10,7 +10,6 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Accueil</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -25,6 +24,7 @@
         {% endfor %}
       {% endfor %}
 
+      <br />
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -35,6 +35,6 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }}. Les textes et images de ce site sont la propriété exclusive de son auteur (sauf mention contraire) et sont soumises aux droits d'auteur.</p>
   </div>
 </div>

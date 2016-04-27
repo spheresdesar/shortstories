@@ -8,8 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            Les Sphères de Sar
-tagline:          'A Jekyll dqzdqzdqzdzqdqzdq'
-description:      ''
+tagline:          'Nouvelles d''autres mondes'
+description:      'Nouvelles d''autres mondes'
 url:              http://spheresdesar.github.io/shortstories/
 baseurl:          /
 

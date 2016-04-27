@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos
+title: A propos de l'auteur
 ---
 
 
