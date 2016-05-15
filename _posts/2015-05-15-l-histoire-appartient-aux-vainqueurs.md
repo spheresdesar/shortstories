@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'histoire appartient aux vainqueurs
-date: 2016-05-15 14:00:00 0000
+date: 2016-05-15 00:00:00 -0700
 category: dm
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;Une jeune domestique entra doucement, les yeux vissés sur le sol. Le maître déposa son livre près de lui et retira une paire de lunettes rondes. Le regard paternel du maitre Murati était accentué par sa longue barbe blanche qu’elle avait elle-même brossé ce matin-là.
