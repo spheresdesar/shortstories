@@ -6,7 +6,7 @@ category: dm
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;S’il est un nombre que mon peuple redoute, c’est bien le nombre trois. Nulle part dans la nature, les choses ne vont par trois. Une bouche, deux yeux, quatre pattes, cinq doigts. Il est contre nature. Quand mes pouvoirs furent décelés, la joie de mes parents fut teintée d’angoisse. J’étais une élue, touchée par la grâce du dieu de l’eau, le puissant Norian. Mais j’étais la troisième.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Sardar fut le premier. Puissant géomancien, seule sa droiture rivalise avec son sens du devoir. Il était promis à un brillant avenir, celui de chef spirituel de tous les mondes. Mais l’année suivante, Arun fut révélé. L’éolien bouleversait les plans des oracles, il démontra rapidement que c’était là l’une de ses principales occupations.
+&nbsp;&nbsp;&nbsp;&nbsp;Sardar fut le premier. Puissant géomancien, seule sa droiture rivalise avec son sens du devoir. Il était promis à un brillant avenir, celui de chef spirituel de tous les mondes. Mais l’année suivante, Arun fut révélé. L’éolien bouleversait les plans des oracles, il démontra rapidement que c’était là l’une de ses principales occupations.<!--more-->
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Le garçon déboula avec hâte du couloir.
