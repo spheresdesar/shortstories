@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cape, zombie et pistoler laser
+title: Cape, zombie et pistolet laser
 date: 2016-07-31 00:00:00 -0700
 category: dm
 ---
@@ -304,6 +304,9 @@ Mala leur fit une vilaine grimace.
 — Avec le peu d’énergie qu’il y a ici ? Il m’en coûtera de faire une illusion jusqu’à ce qu’on soit à l’abri.
 
 — Et qu’on trouve à manger, ajouta Sardar.
+
+
+<center>❡</center>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ils ne comptaient plus le nombre de fois où ils durent changer d’identité. Arun leur remit de nouveaux papiers dont il préférait taire l’origine. Ils s’appelaient maintenant Alexander Hawke, Sebastian Anderson et Matha Dunham.
