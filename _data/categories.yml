@@ -1,6 +1,9 @@
 - name: Les découvreurs de mondes
   category: dm
   color: '#333333'
+- name: Nouvelles des Sphères
+  category: sas
+  color: '#333333'
 - name: L'Oiseau de Mort
   category: oiseaudemort
   color: '#333333'
