@@ -11,7 +11,7 @@ title:            Les Sphères de Sar
 tagline:          'Nouvelles d''autres mondes'
 description:      'Nouvelles d''autres mondes'
 url:              http://spheresdesar.com
-baseurl:          /
+baseurl:          http://spheresdesar.com
 
 paginate: 10
 
