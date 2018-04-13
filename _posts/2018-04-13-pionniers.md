@@ -25,6 +25,7 @@ Myron esquissa un sourire en se penchant sur le classeur des procédures d'urgen
 <!--more-->
 
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;Maître Elias fut le premier à revenir accompagné de monsieur Kléon, l'ingénieur en chef.
 
 – Soyez attentifs, jeunes gens. Vous êtes des pionniers, lança ce dernier en s'installant à son poste. 
