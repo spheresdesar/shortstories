@@ -37,19 +37,25 @@ Des voix réveillèrent Sila en sursaut. Elle se cacha immédiatement dans un bu
 &nbsp;&nbsp;&nbsp;&nbsp;🜘
 
 — À qui dis-tu bonjour, Mélodie ? 
+
 — Oh, à personne, répondit-elle avec malice.
 
 Jean l'attrapa sous les bras et la souleva en l'air, ne manquant pas de déclencher des éclats de rire à la fillette.
 
 — Arrête, papa !
+
 — Ah oui ? Tu ne me raconterais pas de mensonge, hein ?
 
 Mélodie ne put répondre tant elle riait. Son père embrassa sa tête et la reposa au sol. 
 
 — Allez, rentrons. J'ai beaucoup à faire aujourd'hui. 
+
 — Tu vas travailler toute la journée ? Mais c'est mon anniversaire !
+
 — Ne t'inquiète pas, ma chérie, je rentrerais tôt. 
+
 — C'est vrai ? Et avec un cadeau ?
+
 — Oui. 
 
 Mélodie prit la main de son père et sautillait joyeusement en oubliant la fille qu'elle avait vue dans le buisson.
@@ -74,6 +80,7 @@ Après quelques minutes, son estomac gargouilla et elle se dit qu'il arriverait 
 Elle percuta Diane qui se rendait dans les cuisines, chargée de pain frais. 
 
 — Attention, mademoiselle !
+
 — Pardon, Diane. Je suis désolée. 
 
 La fillette esquissa une brève révérence sans s'arrêter tout à fait et reprit sa course folle.
@@ -97,31 +104,41 @@ La femme qui accompagnait la fillette sortit à son tour de la maison. Elle acco
 La scène qui l'accueillit le laissa perplexe. Thérèse invectivait une jeune métisse en tenue traditionnelle, cette dernière ne bougeait pas et regardait ses pieds. Mélodie était dans les bras protecteurs de sa nourrice, mais elle lui criait dessus avec colère.
 
 — Par l'Éther, qu'est-ce qui se passe ?
+
 — Ah, monsieur ! soupira la nourrice.
+
 — Papa !
 
 Diane et Sophie, ses deux domestiques indigènes, mirent le nez dehors avec curiosité, mais se gardèrent de sortir. 
 
 — Thérèse, tu peux m'expliquer ?
+
 — J'ai surpris cette métisse dans le jardin, elle était avec Mélodie.
+
 — Je voulais jouer avec elle ! Nanny est méchante avec elle, elle n'a rien fait de mal ! Juste des jolies lumières !
+
 — Des quoi ? Pourquoi... Une minute. Excusez-moi, vous...
 
 La jeune femme s'était tournée vers lui et murmurait quelque chose. Sa voix était faible et entrecoupée de petits hoquets. Jean resta un instant figé devant ses yeux. Les larmes les faisaient briller, magnifiant les reflets d'automnes de ses pupilles. Il tendit l'oreille, mais les mots qu'ils entendaient n'avaient aucun sens. Elle parlait visiblement la langue des indigènes, la langue de Dulka. Elle ne montrait aucun signe d'agressivité, ce n'était donc pas une de ces rebelles.
 
 — Monsieur, je fais rentrer Mélodie à l'intérieur.
+
 — Pas encore, je veux comprendre ce qu'il s'est passé. Je ne comprends pas ce que tu dis.
 
 Il tenta de se faire comprendre par signe, n'obtenant qu'un regard perplexe de la métisse. Il soupira. Au moins, ses hoquets avaient cessé. 
 
 — Bon, Mélodie. Dis-moi ce qu'il s'est passé.
+
 — C'est pour moi ?
 
 Elle montrait l'ours en peluche.
 
 — Hein ? Euh, oui. Mais pas avant que tu m'aies tout dit.
+
 — C'est la fille du buisson.
+
 — Du buisson ? Pendant la promenade tu veux dire ?
+
 — Oui, je l'ai vu faire des lumières dans le ciel. Comme des bulles de savon, mais qui brillent. C'était joli. Je croyais que c'était pour mon anniversaire.
 
 &nbsp;&nbsp;&nbsp;&nbsp;🜘
@@ -137,9 +154,13 @@ Elle n'y croyait pas tout à fait, malgré la présence des autres métisses, il
 &nbsp;&nbsp;&nbsp;&nbsp;Par tous les dieux ! Jean remonta vivement les vêtements de la jeune femme, ils avaient glissé de ses épaules et dévoilé une bonne partie des tatouages qui couraient le long de son ventre et de sa poitrine. Il avait tourné la tête, mais bien trop tard pour avoir manqué quoi que ce soit. Thérèse avait couvert les yeux de Mélodie qui pouffait tout bas. Diane et Sophie se retenaient elles aussi de rire devant la gêne de leur employeur.
 
 — Mais qu'est-ce que vous faites ? finit-il par dire, le rouge colorant ses joues.
+
 — Je crois qu'elle propose d'être votre épouse, monsieur, répondit Sophie concentrée pour ne pas paraître impolie.
+
 — Oui, j'avais compris, c'est juste que...
+
 — Oh ? Elle va être ma nouvelle maman ? demanda Mélodie en secouant la tête pour se libérer de sa nourrice.
+
 — Non, ma chérie ! C'est... Ah, soupira-t-il.
 
 Jean était partagé entre la consternation et pitié. Bien que le gouvernement local soit discret à ce sujet, les purges dont faisaient l'objet les métisses n'étaient pas un secret. Il n'était pas rare de voir errer l'un d'eux aux abords des villes, à la recherche d'eau, de nourriture ou de protection. Diane et Sophie étaient trop jeunes pour s'en souvenir, mais c'est ainsi que leur grand-mère les avait abandonnées devant sa porte. Cette jeune femme n'était sans doute pas différente. Elle avait été séparée de son clan et cherchait un nouveau foyer. Et elle était déterminée à survivre. 
@@ -147,7 +168,9 @@ Jean était partagé entre la consternation et pitié. Bien que le gouvernement 
 Ses tatouages étaient ancrés dans son esprit, ravivant des sensations qu'ils pensaient mortes en même temps que sa défunte épouse. Il n'avait jamais rencontré de chaman Dulkan, pour cause, les métis étaient généralement exclus de ces fonctions et les indigènes purs avaient fui loin des villes. Son rôle était flou, mais il savait que c'était une sorte de magicien qui servait de guide et de protecteur pour un clan ou une tribu. Peut-être voulait-elle simplement une nouvelle famille à protéger. Jean prit une grande inspiration. Il n'avait pas le choix.
 
 — Diane, Sophie. Faites-la rentrer et donnez-lui à boire et à manger. Et puis un lit pour se reposer. Thérèse, je vous confie Mélodie. Qu'elle n'aille pas l'embêter, cette pauvre fille a peut-être perdu des proches aujourd'hui.
+
 — Ne me dites pas que vous acceptez de..., demanda la gouvernante.
+
 — Non, mais elle a besoin d'aide. Je ne peux pas la jeter dehors, elle risque peut-être sa vie.
 
 Les deux métisses guidaient amicalement la jeune femme vers la maison, quant Diane s'arrêta, l'air effrayé.
@@ -157,11 +180,13 @@ Les deux métisses guidaient amicalement la jeune femme vers la maison, quant Di
 Sophie ouvrit de grands yeux, comprenant la menace que souleva sa cousine.
 
 — N'ayez pas peur, mesdames, je vais prévenir le comité de voisinage. Une battue sera organisée.  Allez, à l'intérieur. Et moi je vais essayer de lui trouver une nouvelle famille.
+
 — Pourquoi pas ici ? demanda Mélodie en s'approchant de son père. Je suis sûre que maman l'aurait gardée. Je l'aime bien et il y a déjà Diane et Sophie.
 
 Jean s'accroupit pour se mettre à sa hauteur.
 
 — Justement, ma chérie. Il y a déjà Diane et Sophie. Et toi, et Nanny. Je ne peux pas faire vivre plus de monde, ma grande.
+
 — Et si je t'aide ? Je peux travailler moi aussi.
 
 Il ramassa l'ourson qu'il avait fait tomber dans la confusion et le remit à Mélodie.
@@ -181,9 +206,13 @@ Le ventre plein, Sila sentit la fatigue des derniers jours la rattraper. Son cou
 &nbsp;&nbsp;&nbsp;&nbsp;La tête de la jeune femme penchait de plus en plus, quand elle s'endormit finalement, recroquevillée sur son fauteuil. La pauvre devait être épuisée. Jean eut le coeur serré en imaginant les drames qu'elle avait pu vivre.
 
 — Papa, la dame s'est endormie à table, chuchota Mélodie, aussi fort que si elle avait parlé normalement.
+
 — Ce n'est rien, ma chérie. Elle n'a pas fait exprès, elle est sûrement très très fatiguée.
+
 — Elle ne peut pas dormir ici, il faut l'emmener dans un lit, insista Thérèse.
+
 — On peut la réveiller le temps de l'y emmener, monsieur, proposa Sophie, Diane approuvant du chef.
+
 — Non, je n'ai pas le coeur de la réveiller.
 
 Jean se leva, jaugea le poids de la jeune femme. Elle était menue, par rapport à ses critères. Peut-être pourrait-il l'y porter sans la déranger.
@@ -219,6 +248,7 @@ Sa stupeur fut brisée par des bruits à l'étage. Craignant une intrusion malve
 La jeune femme avait vraisemblablement très mal interprété ses gestes et elle se dirigeait vers son lit à lui par de prudents pas de côté.
 
 — Non ? répéta-t-elle en s'arrêtant.
+
 — Non, reprit-il en agitant son doigt.
 
 Elle réfléchit et ferma les yeux. Avant que Jean n'ait pu réagir, elle avait fait glisser ses vêtements.
@@ -238,12 +268,15 @@ Il lui prit les épaules et la guida hors de sa chambre avec plus de hâte qu'il
 La chambre de la gouvernante faisait face à celle de Mélodie, juste avant l'escalier. Il frappa doucement à la porte et la vieille femme ouvrit la porte, les yeux encore pleins de sommeil.
 
 — Qu'y a-t-il, monsieur ? Vous risquez de réveiller l'enfant avec tout ce bruit.
+
 — J'aurais besoin que vous gardiez un oeil sur elle.  
 
 Elle se frotta les yeux et les détailla de son oeil inquisiteur.
 
 — N'imaginez rien, elle est juste un peu trop... déterminée à rester parmi nous, semble-t-il. 
+
 — Bien sûr, monsieur. Je crains juste qu'elle ne soit trop confortée dans sa démarche.
+
 — Peu importe ! (Thérèse se racla la gorge et Jean reprit moins fort.) Peu importe, je dois la présenter demain à un ami qui pourrait l'accueillir, le seul qui ne veut pas me l'acheter ! Faites juste en sorte qu'elle soit propre et présentable. Ah, et mettez-lui des vêtements qu'elle ne pourra pas enlever trop facilement. Je ne veux pas de malentendu.
 
 Il n'attendit aucune réponse et rejoignit sa chambre en prenant soin de fermer la porte cette fois-ci.
@@ -272,13 +305,17 @@ Nanny revint un peu plus tard, l'aida à se sécher à s'habiller avec un long v
 Il s'habilla mollement et entreprit de rejoindre l'étage inférieur pour y trouver un bon café. Dans la chambre de Mélodie, Thérèse finissait d'habiller la fillette. La vue de sa fille avait déjà chassé la plupart de ses démons.
 
 — Bonjour ma grande, bonjour Thérèse.
+
 — Bonjour papa !
+
 — Bonjour monsieur. 
 
 Il allait descendre la première marche quand il se ravisa. Un dernier souci lui restait en tête.
 
 — Euh, Thérèse. Elle n'est pas avec vous ?
+
 — Qui ? Oh, Sila. Je crois que c'est comme ça qu'elle s'appelle. Elle s'est levée tôt, je l'ai laissé dans le jardin, elle ne devrait pas quitter la propriété. Elle s'est montrée plutôt obéissante jusqu'à présent.
+
 — Oh, d'accord. Je vais juste... m'assurer que tout va bien, dit-il en se dirigeant vers le rez-de-chaussée.
 
 La fenêtre menant sur le jardin était entrouverte, ce qui était commun à cette heure de la journée. Il entendait du bruit dans la cuisine et Mélodie descendait les escaliers avec sa nourrice. Tiraillé par l'odeur du café chaud, Jean se traîna pourtant jusqu'à l'extérieur. Il balaya le jardin, mais ne vit aucun signe de cette Sila. Inquiet, il fit quelques pas supplémentaires et découvrit une chose étrange sur la façade de sa maison. Le mur entier était couvert d'un dessin aux traits noirs comme la suie. Il recula de quelques pas pour saisir l'ampleur de la chose. Il recula vivement quand il remarqua que le dessin était composé de dizaines de chiens à l'air menaçant et aux yeux brillants de menace.  Il suivit le tracé et aperçut quelqu'un accroupi derrière un coin de la maison. Qui vandaliserait ainsi sa maison ? Il chercha autour de lui, saisit un tison près du brasero froid et fonça sur l'individu. 
@@ -293,6 +330,7 @@ Comment osait-elle lui faire ça alors qu'il lui avait sûrement sauvé la vie ?
 Il tira sur son bras pour la relever et la ramener à l'intérieur. Mélodie le regardait, les yeux baignés de larmes silencieuses. La peur le saisit. Il avait accueilli cette étrangère et mit en danger sa seule enfant. Comment avait-il pu être aussi idiot ? Le charme de cette sorcière l'avait-il ensorcelé ou était-il simplement trop naïf ?
 
 — Arrête de crier, papa, gémit Mélodie en avançant vers son père.
+
 — Thérèse, ramène Mélodie à l'intérieur auprès des filles et revient ici. Je vais devoir m'occuper de celle-ci et j'aurais besoin de toi.
 
 Celle-ci prit la fillette dans les bras, ignorant ses protestations, et la rentra de force. 
@@ -315,27 +353,37 @@ Il se releva, lasse, et se remit en marche. Elle n'avait pas encore cédé aux s
 Son ami Vincent était arrivé peu de temps après et a été accueilli par les pleurs de colère de la petite Mélodie envers son père. Celui-ci l'avait immédiatement renvoyé dans sa chambre pour s'expliquer avec son ami. Les deux hommes discutèrent longuement.
 
 — Tu as bien fait, Jean. Mais pas pour les bonnes raisons. Si c'est bien ce que je pense, Mélodie, ou même toi, n'aviez rien à craindre. Ces dessins sont des glyphes très anciens, on les trouve sur les maisons des chefs des clans dans les tribus indigènes. Ce sont des sortes de protecteurs qui réagissent quand le maître de la maison se sent menacé ou que des individus malveillants s'en approchent. Si ce que tu me dis est exact, son cadeau, car c'était sans doute cela, s'apprêtait à se retourner contre elle.
+
 — Comment peux-tu en être sûr ? Je sais que tu es bien plus savant que moi sur ces choses là, mais tout de même. 
+
 — Je te l'accorde qu'elle a du caractère. D'après tes dires, elle est loin d'être sans défense. J'avoue que je suis un peu déçu de l'avoir manquée. Bref. Tes suppositions sont sûrement vraies concernant son passé. C'est, hélas, une période sombre pour les descendants de la première vague. L'assimilation est la seule solution si nous voulons permettre à tout le monde de vivre en paix.
+
 — Si c'est vrai, Vincent, c'est bien triste. N'y a-t-il vraiment aucun moyen de vivre ensemble sur cette planète ? Nous avons tant à leur apprendre !
+
 — Ils ne sont pas de ton avis. Et plus j'en apprends sur leur culture, plus je me demande s'ils ont vraiment besoin de nous. 
+
 — D'après toi, nous sommes les anomalies ? s'emporta Jean avant de se raviser. Soit. Peu importe pour le moment. Je...
 
 Thérèse descendit les escaliers, elle examina nerveusement les alentours.
 
 — Monsieur, je ne trouve plus Mélodie. L'avez-vous vu ?
+
 — Non. Elle n'est pas descendue, je l'aurais remarqué.
+
 — Je crains qu'elle n'ait escaladé le mur, monsieur. La fenêtre de sa chambre est grande ouverte.
 
 Jean se leva brusquement en faisant crisser les pieds de sa chaise. 
 
 — Thérèse, vous pensez qu'elle est partie retrouver Sila ? 
+
 — Je... Ça n'est pas impossible.
 
 Vincent se leva à son tour.
 
 — Si elle est partie la retrouver, elle est peut-être en danger, dit Vincent. Des natifs patrouillent dans les environs, sûrement après avoir suivi ta métisse jusqu'ici.
+
 — Thérèse, sors mon arme.
+
 — Je viens avec toi, proposa Vincent.
 
 &nbsp;&nbsp;&nbsp;&nbsp;🜘
@@ -354,12 +402,14 @@ Un craquement dans son dos lui fit faire volte-face. Trois guerriers sangs-purs 
 Vincent mit en joue les guerriers, puis, quand ceux-ci furent hors de vue, il visa Sila. Jean allait faire de même quand il remarqua que sa fille serrait la métisse dans ses bras. Il laissa tomber son arme et s'approcha de deux filles. Effrayée par le bruit, Sila releva la tête.
 
 — Mélodie, appela Jean.
+
 — Papa !
 
 La fillette se retourna, mais hésita à lâcher Sila. Celle-ci risqua un oeil par-dessus son rocher et poussa la fillette dans les bras de son père. C'est alors qu'il put voir le sang couler de son bras. 
 Son ami Vincent baissa son arme et le contourna pour observer l'autre côté du rocher. Jean serrait Mélodie dans ses bras. Quand il eut assez savouré la présence de sa fille, il regarda à nouveau Sila. La métisse pressait la plaie sur son bras, adossée à son rocher, pâle et haletante. Elle levait vers le ciel un menton rougi par le sang et des yeux clos d'où coulait une larme solitaire. 
 
 — Papa, j'ai peur. Les monsieur nous ont courus après. Il y a eu des explosions et Sila s'est mordu le bras. Elle a eu mal et, et ils ont crié très fort, et... hoqueta la fillette.
+
 — Shhh. Je suis là, les vilains sont partis. On vous protège maintenant. Tout va bien, mon amour. 
 
 Il souleva la fillette dans ses bras et se rapprocha de Vincent en veillant à tenir Mélodie hors de vue du cadavre. Celui-ci ne dit rien, mais lui montra le rocher. Un chien aux yeux luisants et à l'air menaçant était tracé à la hâte et dans le sang. Jean se mit à pleurer en serrant sa fille contre lui.
