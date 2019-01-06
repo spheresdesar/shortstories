@@ -12,7 +12,9 @@ Sila a été recueilli par Zikomo après avoir été banni de son clan, une terr
 — La force d'une personne se mesure à la force de son clan.
 
 Ainsi parlait Zikomo.
+<!--more-->
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Le jour pointerait bientôt le bout de son nez et Sila était fatiguée. Elle s'était retrouvée en bout de la colonne qui comptait maintenant douze personnes. Le nombre était une bonne chose pour la force du clan, une moins bonne pour rester discret. Sila fermait la marche avec Enu, une femme à peine plus âgée qu'elle, mais dont l'air sévère la faisait paraître d'une dizaine d'années son aînée. Celle-ci avait rejoint le clan durant les semaines précédentes et ne parlait pas beaucoup, mais elle s'était révélée être une excellente chasseuse. Sila soupira en silence. Elle aurait bien voulu lui parler pour passer le temps et oublier sa fatigue, si seulement cela n'avait pas risqué de révéler leur position.
 
@@ -25,13 +27,14 @@ Il tenait sa dague à la main, ce qui ne pouvait signifier qu'une chose.
 — Allez, courez ! ordonna-t-il en nous tournant le dos pour replonger dans la lumière.
 
 Il poussa un cri de colère et disparut totalement. Enu m'attrapa le bras et se mit à courir. Sila suivit le mouvement, mais son esprit était encore sous le choc. Ils avaient toujours pu éviter les conflits, soit par leur discrétion, soit par leur nombre. Les autres étaient-ils derrière ? Elle se risqua à vérifier et découvrit du coin de l'oeil un sang pur sur leur pas, une lance à la main. Incitée par la peur, elle accéléra. Enu l'imita.
-<!--more-->
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Les pas du guerrier s'étaient faits plus lointains jusqu'à être inaudibles. Sila était au bord de l'évanouissement et se fit distancer par Enu. Incapable de faire un pas de plus, la jeune chamane se laissa finalement tomber près d'un buisson.
 — Ne reste pas là, lui lança Enu. 
 Sila n'avait pas la force de lui répondre, elle voulait juste dormir, un peu, au soleil. Enu hésita un instant, puis reprit sa route en l'abandonnant derrière elle. 
 Des voix réveillèrent Sila en sursaut. Elle se cacha immédiatement dans un buisson et attendit de voir d'où elles provenaient. Un homme tenait une fillette par la main, une femme de grande taille les suivait à quelques distances. Ils étaient joyeux et semblaient insouciants des combats à quelques kilomètres de là. Et ils étaient étrangers. Sila n'en avait jamais vu de si près. Il était grand et leurs oreilles étaient encore plus allongées que les siennes. Leur peau était encore plus sombre que la sienne. Tandis qu'elle détaillait les promeneurs, la fillette tourna la tête dans sa direction et la salua avec un large sourire.
+
+->🜘<-
 
 — À qui dis-tu bonjour, Mélodie ? 
 — Oh, à personne, répondit-elle avec malice.
@@ -51,6 +54,7 @@ Mélodie ne put répondre tant elle riait. Son père embrassa sa tête et la rep
 
 Mélodie prit la main de son père et sautillait joyeusement en oubliant la fille qu'elle avait vue dans le buisson.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Sila était seule et elle avait abandonné son sac à dos bien trop lourd pendant sa fuite. Son corps lui réclamait du repos et de l'eau, et son esprit cherchait à lui rappeler les compagnons qu'elle avait laissés derrière elle. Ces étrangers n'avaient pas l'air hostiles, il l'aiderait peut-être, mais elle ne comprenait pas un mot de leur langue. Aussi discrète que possible, elle suivit la petite famille en espérant au moins trouver un peu d'eau sur leur route. Après une courte marche, ils arrivèrent aux abords d'une ville enclavée. Les collines et la forêt masquaient habilement les centaines de bâtiments qui la composaient. Sila repéra une large rivière qui la traversait. Son amont se perdait dans les hauteurs et son aval était bien trop exposé dans la vallée. 
 
@@ -59,6 +63,7 @@ Elle se retrouva dans une étrange clairière bordée d'arbres solitaires et de 
 
 Quand son coeur fut apaisé et que le sang cessa de battre à ses oreilles, elle put distinguer le clapotis de l'eau. Avec prudence, elle se pencha au-dessus de l'accoudoir et aperçut une petite fontaine tout près. La tentation était forte, mais elle décida d'attendre que le jour décline pour se glisser jusqu'à elle et soulager sa gorge asséchée par la soif.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Mélodie guettait le retour de son père depuis la fenêtre de sa chambre. Sa nourrice l'y avait laissé pour jouer après sa leçon matinale. Elle savait qu'il ne reviendrait pas avant le milieu de l'après-midi, mais la fillette avait espoir qu'il lui fasse la surprise de rentrer plus tôt. Après tout, c'était son anniversaire. 
 
@@ -77,6 +82,7 @@ La fillette esquissa une brève révérence sans s'arrêter tout à fait et repr
 
 Mais celle-ci était déjà dans le jardin.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;La maison fut soudainement bruyante et une porte s'ouvrit tout près. Sur le qui-vive, Sila bondit de son fauteuil en lançant le sort qu'elle avait préparé en cas d'urgence. La boule de lumière qui flottait au-dessus de sa main apparue devant la fillette qui s'arrêta net. Sila reconnut l'enfant et annula immédiatement le sortilège. La boule s'évapora devant la main tendue de la fillette qui s'apprêtait à la toucher.
 Elle se mit à parler et à sautiller sur place, laissant Sila confuse. 
@@ -85,6 +91,7 @@ Elle se mit à parler et à sautiller sur place, laissant Sila confuse.
 
 La femme qui accompagnait la fillette sortit à son tour de la maison. Elle accourut vers la fillette et l'éloigna aussitôt de Sila en lui parlant d'un ton ferme, son bras indiquant clairement qu'elle voulait voir Sila partir. C?en était trop pour la jeune femme. Sa gorge se serra et de larmes embuèrent ses yeux. On la chassait à nouveau, elle était condamnée à la solitude.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Jean avait fui l'atelier à la première occasion. Ses employés s'en sortiraient bien une après-midi sans lui. Après tout, c'était l'anniversaire de Mélodie. Heureux de lui faire la surprise, il cacha un petit ours en peluche dans son dos avant d'entrer dans la propriété. Une voix familière et visiblement très contrariée assombrit son humeur. Thérèse ne s'énervait que rarement, même quand Mélodie faisait un de ses caprices. Inquiet, il accéléra le pas. 
 La scène qui l'accueillit le laissa perplexe. Thérèse invectivait une jeune métisse en tenue traditionnelle, cette dernière ne bougeait pas et regardait ses pieds. Mélodie était dans les bras protecteurs de sa nourrice, mais elle lui criait dessus avec colère.
@@ -117,6 +124,7 @@ Elle montrait l'ours en peluche.
 — Du buisson ? Pendant la promenade tu veux dire ?
 — Oui, je l'ai vu faire des lumières dans le ciel. Comme des bulles de savon, mais qui brillent. C'était joli. Je croyais que c'était pour mon anniversaire.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Les évènements échappaient au contrôle de Sila. L'adrénaline qui avait maintenu son sang-froid jusqu'alors ne faisait plus le poids. Comme elle s'y était attendue, les éclats de voix de l'enfant avaient attiré l'attention des autres adultes. La femme lui avait clairement signifié de partir, mais l'homme était arrivé. C'était sûrement le chef de cette maison et dans un ultime espoir, Sila avait tenté de lui demander de l'aide. Il lui sembla bienveillant et compatissant, remontant le moral de la jeune femme. Grâce à lui, les esprits s'étaient calmés et deux métisses un peu plus jeunes qu'elle s'approchèrent de l'homme. Les jeunes filles s'inclinèrent poliment devant lui et lui parlèrent dans leur langue. Elle n'était peut-être pas la première à se présenter ici, peut-être juste la plus âgée. En partie rassurée, Sila essuya ses larmes et se mit à genoux devant l'homme. Elle retira son collier rituel et lui tendit. 
 
@@ -124,6 +132,7 @@ Elle montrait l'ours en peluche.
 
 Elle n'y croyait pas tout à fait, malgré la présence des autres métisses, il ne connaissait peut-être pas cette cérémonie. En retirant ce collier, elle étalait sa vie devant ses yeux. De sa naissance à son intronisation au rang de chamane, toutes les grandes étapes de sa vie étaient représentées par les différents ornements qui le composaient. Évidemment, elle fut déçue quand l'homme l'incita à se relever en ignorant l'objet. Prenant cela pour un refus, elle se résigna à utiliser sa dernière carte. Celle qu'elle espérait ne jamais dévoiler. Mais tout sauf la solitude.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Par tous les dieux ! Jean remonta vivement les vêtements de la jeune femme, ils avaient glissé de ses épaules et dévoilé une bonne partie des tatouages qui couraient le long de son ventre et de sa poitrine. Il avait tourné la tête, mais bien trop tard pour avoir manqué quoi que ce soit. Thérèse avait couvert les yeux de Mélodie qui pouffait tout bas. Diane et Sophie se retenaient elles aussi de rire devant la gêne de leur employeur.
 
@@ -159,6 +168,7 @@ Il ramassa l'ourson qu'il avait fait tomber dans la confusion et le remit à Mé
 
 — Pas encore, ma puce. Mais c'est gentil de ta part.
 	
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;L'homme l'avait repoussé par deux fois, mais on l'avait emmené à l'intérieur de la maison et on lui avait offert à boire et à manger. Qu'allaient-ils faire d'elle ? Elle chassait les mauvaises pensées pour se concentrer sur le présent. Elle devait prendre des forces. 
 
@@ -166,6 +176,7 @@ Installée sur une chaise inconfortable, elle prenait une nouvelle bouchée de c
 
 Le ventre plein, Sila sentit la fatigue des derniers jours la rattraper. Son court sommeil à l'aube lui avait tout juste permis de récupérer de sa course. Sa tête était si lourde qu'elle l'appuya contre le rebord du fauteuil. Elle ferma les yeux un instant, juste pour quelques secondes.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;La tête de la jeune femme penchait de plus en plus, quand elle s'endormit finalement, recroquevillée sur son fauteuil. La pauvre devait être épuisée. Jean eut le coeur serré en imaginant les drames qu'elle avait pu vivre.
 
@@ -181,6 +192,7 @@ Jean se leva, jaugea le poids de la jeune femme. Elle était menue, par rapport 
 
 Elle était plus légère qu'il l'imaginait et peut-être plus jeune qu'il n'y paraissait. Quand il la souleva, elle se recroquevilla un peu plus contre lui sans ouvrir les yeux. Imaginant Mélodie à sa place, Jean pria les dieux de lui trouver une nouvelle famille. Aurait-il la force de la mettre dehors dans le cas contraire ?
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Sila s'éveilla en sursaut, l'oreiller trempé par ses larmes. Le souvenir vivace de son rêve imprégnait encore son coeur qui battait contre sa poitrine. Elle le savait. Zikomo et le reste de son clan n'étaient plus. Enu avait peut-être survécu à la purge, mais la guerrière avait rejoint le clan bien trop tard pour que Sila soit réconfortée par cette idée.
 
@@ -194,6 +206,7 @@ Sila tomba à genoux en implorant les étoiles. La chamane murmura une formule i
 
 Sa stupeur fut brisée par des bruits à l'étage. Craignant une intrusion malveillante, les réflexes de Sila prirent le pas sur la peur et une boule de lumière se formait près de sa main tandis qu'elle murmurait son incantation. Elle monta les escaliers sur la pointe des pieds et passa devant plusieurs portes closes. Un filet de lumière s'échappait de la dernière porte à sa gauche. Tendant l'oreille, elle avança avec plus de précautions encore, la boule de lumière vibrant au bout de la main qu'elle cachait dans son dos. Elle poussa lentement la porte. Les bruits étouffés venaient du fond de la pièce, un volet de bois l'empêchait de voir si son hôte était en danger. Elle se glissa à l'intérieur pour s'en assurer.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Jean se débattait avec ses vêtements. Le bouton de sa chemise s'était coincé dans ses cheveux. Il tira un coup sec et retint un cri. Une touffe de cheveux virevoltants passa devant ses yeux quand il la secoua devant lui. Il retourna vers son lit où il avait laissé sa tenue de nuit. Il recula sous la surprise en voyant que quelqu'un s'était introduit dans sa chambre. La main sur son coeur, il souffla en découvrant la jeune métisse. Il enfila avec hâte un pantalon. Celle-ci examina la pièce et retira la main dans son dos.
 
@@ -235,6 +248,7 @@ Elle se frotta les yeux et les détailla de son oeil inquisiteur.
 
 Il n'attendit aucune réponse et rejoignit sa chambre en prenant soin de fermer la porte cette fois-ci.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;La grande dame soupira, mais sourit à Sila.
 
@@ -252,6 +266,7 @@ L'angoisse lui saisit la gorge. La préparait-on pour le coït ? Ou bien pour un
 
 Nanny revint un peu plus tard, l'aida à se sécher à s'habiller avec un long vêtement semblable au sien. Si la grande femme lui avait fait peur au début, elle était maintenant bienveillante. Oui, Sila ne sera plus seule. Elle était si heureuse qu'elle voulût remercier son nouveau clan.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Le soleil filtra par les rideaux et réveilla Jean qui remonta les draps sur sa tête en espérant reprendre sa nuit agitée. Des pensées plus ou moins sombres avaient maintenu son esprit éveillé, chassant le sommeil bien loin de son lit. 
 Il s'habilla mollement et entreprit de rejoindre l'étage inférieur pour y trouver un bon café. Dans la chambre de Mélodie, Thérèse finissait d'habiller la fillette. La vue de sa fille avait déjà chassé la plupart de ses démons.
@@ -286,6 +301,7 @@ Celle-ci prit la fillette dans les bras, ignorant ses protestations, et la rentr
 
 Il lâcha le tison et se prit la tête en se lamentant. Il allait vraiment devoir la mettre dehors, et vite. 
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;L'homme la dévisageait, toujours furieux, puis regardait le mur en marmonnant. Sila était figé de stupeur. Elle pensait que son nouveau chef et, peut-être, futur époux serait honoré d'être protégé par les chiens sacrés, mais il n'en était visiblement rien. Au contraire, il était furieux et si en colère que les chiens avaient réagi et s'apprêtaient à cracher leurs flammes sur elle. Les larmes étaient coincées dans sa gorge, trop effrayé pour les laisser sortir. Quand Nanny revint, ils discutèrent vivement en évitant son regard. Sila plaqua sa main sur sa bouche pour retenir un sanglot. Elle s'était trompée. Elle n'était bienvenue nulle part. Elle rassembla ses forces et se mit à courir.
 
@@ -293,6 +309,7 @@ Une fois hors d'haleine, elle se retourna et tomba à genoux pour pleurer, le fr
 
 Il se releva, lasse, et se remit en marche. Elle n'avait pas encore cédé aux sirènes de la mort et elle ne pouvait pas rester à se morfondre en plein jour dans la vallée. Elle remonta la piste qu'elle avait suivie quelques jours plus tôt, avec un faible espoir de retrouver la trace de la guerrière Enu. Elle vérifiait régulièrement buissons et rochers, mais elle craignait bien plus de tomber sur son cadavre.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Jean était à bout. Il avait eu si peur pour sa fille, mais il se sentait aussi parfaitement idiot. Debout devant les tracés apparemment inoffensifs de Sila, il réalisait qu'il s'était comporté en parfait imbécile obéissant à de stupides préjugés. La jeune femme avait pris peur devant sa colère et s'était enfuie. Seule, en pyjama, sans eau, ni nourriture.
 Son ami Vincent était arrivé peu de temps après et a été accueilli par les pleurs de colère de la petite Mélodie envers son père. Celui-ci l'avait immédiatement renvoyé dans sa chambre pour s'expliquer avec son ami. Les deux hommes discutèrent longuement.
@@ -321,6 +338,7 @@ Vincent se leva à son tour.
 — Thérèse, sors mon arme.
 — Je viens avec toi, proposa Vincent.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Sila reconnut le buisson où l'avait abandonné Enu. Elle observa les alentours et chercha au fin fond de sa mémoire. Où était-elle donc partie ?
 
@@ -330,6 +348,7 @@ Une voix fluette l'interpella dans son dos. La fillette lui faisait de grands si
 
 Un craquement dans son dos lui fit faire volte-face. Trois guerriers sangs-purs les suivaient à bonne distance. Maintenant qu'ils étaient découverts, il brandissait leur lance et leur arc. Sila prit l'enfant dans ses bras et courut.
 
+->🜘<-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Jean et Vincent avaient parcouru les alentours sans succès. Rejoints par d'autres voisins armés, ils avaient élargi leur champs de recherche. Jean guida Vincent à l'endroit où Mélodie avait vu Sila pour la première fois. Mais peu avant de l'atteindre, son coeur se serra. De la fumée noire s'élevait plus haut sur le chemin et des cris en Dulkan le firent craindre le pire. Une explosion. Ils accélérèrent et découvrirent Sila pleurant, les mains couvertes de sang, tenant Mélodie dans ses bras. Elles étaient retranchées derrière un rocher de l'autre côté duquel des guerriers Dulkan fuyaient au milieu de buissons et d'herbes en feu. L'un d'eux était à terre, la poitrine et une partie du visage explosé.
 Vincent mit en joue les guerriers, puis, quand ceux-ci furent hors de vue, il visa Sila. Jean allait faire de même quand il remarqua que sa fille serrait la métisse dans ses bras. Il laissa tomber son arme et s'approcha de deux filles. Effrayée par le bruit, Sila releva la tête.
