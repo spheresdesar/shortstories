@@ -4,6 +4,9 @@ title: Bercé d'illusions
 date: 2020-08-06 00:00:00 -0700
 category: random
 ---
+&nbsp;&nbsp;&nbsp;&nbsp;*Déconnexion en cours...*
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;À chaque fois qu'il retirait son masque, une intense nausée le tenait collé à son siège pendant plusieurs minutes. Samuel s'étira, respira profondément, mais elle était toujours là. Il but dans le verre d'eau qui était encore à côté de lui, le liquide qui datait de plusieurs heures ne fit que renforcer ses hauts le coeur. Quelques minutes de plus et il se sentit suffisamment mieux pour se lever. Il replaça ses petites lunettes rondes sur son nez et enfila rapidement un t-shirt.
 
 Son frigo vide lui rappela qu'il n'était pas sorti depuis une bonne semaine, au moins. Il soupira, dénia glisser dans un pantalon et lasser ses chaussures. Il gémit à chaque mouvement sous le poids de son propre corps, chaque mouvement semblait lui demander un effort immense. Mais le plus dur allait venir.
@@ -23,7 +26,7 @@ Il pénétra dans la boutique et fut agressé par le trop-plein de sensations. L
 Il resta quelques secondes dans le noir, puis un frisson agréable parcourut tout son corps et l'interface de connexion apparut enfin. Il n'était plus Samuel le sans-emploi, mais William, un homme à la tête de l'une des plus grandes guildes du jeu. Il était important, il était respecté et, surtout, il avait confiance en lui. Tout n'était qu'illusion, mais il n'avait plus peur de son ombre et cela lui convenait. Un bonheur simulé ne valait-il pas mieux qu'aucun ? 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Chargement du monde...
+&nbsp;&nbsp;&nbsp;&nbsp;*Chargement du monde...*
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Une fois en pleine possession de son avatar, il apparut dans son manoir bien éloigné de son petit appartement. Dans le lit, à côté de lui, l'avatar d'une femme était endormi. Elle n'était pas connectée, il décida donc d'attendre quelques minutes.
@@ -31,7 +34,7 @@ Il resta quelques secondes dans le noir, puis un frisson agréable parcourut tou
 Il avait fait sa connaissance quelques mois plus tôt. Elle faisait partie de sa guilde depuis longtemps et avait gravi les échelons jusqu'à le rencontrer, par hasard, lors d'un événement. Ils avaient parlé, puis leur discussion est devenue flirt jusqu'à organiser un mariage en jeu. Pourtant, il ne s'était jamais rencontré dans le vrai monde et Samuel se demandait s'il était possible de construire quelque chose de concret ou si tout cela n'était qu'un passe-temps. Où vivait-elle ? Que faisait-elle ? À quoi ressemblait-elle ? Samuel n'en avait aucune idée, tout ce qu'il savait, c'était ce qu'elle avait bien voulu montrer à William.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Évelyne se connecte
+&nbsp;&nbsp;&nbsp;&nbsp;*Évelyne se connecte*
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;L'avatar ouvrit les yeux et sortit du lit.
@@ -85,13 +88,13 @@ William lui passa devant pour reprendre de la contenance.
 La rue était bondée. Au-dessus de chaque avatar, on pouvait voir leurs noms et quelques icônes indiquant leurs hauts faits. Samuel pouvait voir le nom de tous les membres de sa guilde en vert et, à ce moment-là, sa vision était particulièrement teintée de vert. Le hall de sa guilde était à deux pas du manoir et une grande expédition de son initiative se préparait. Comme d'habitude, il dirigea les préparatifs et l'expédition en elle-même. Il imposait sa stratégie et venait à l'aide des principaux joueurs. L'événement rencontra un succès attendu et tous se félicitèrent d'avoir pu y participer avec William, le célèbre chef de guilde. Une soirée classique pour lui.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Déconnexion en cours...
+&nbsp;&nbsp;&nbsp;&nbsp;*Déconnexion en cours...*
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Samuel était de retour dans son appartement. Il se traîna jusqu'à son lit, épuisé. Pourtant, le sommeil se dérobait et sa vision scintillait encore de sa longue session de jeu. Il fixait le plafond au dessus de lui, incapable d'ignorer le malaise qui l'étreignait. Le lendemain, il devait pointer au chômage, se voir proposer un énième emploi médiocre, passer un nouvel entretien et se faire rejeter à nouveau. Il n'avait jamais réussi à trouver sa place dans ce monde, alors qu'il lui avait été si facile de devenir William dans l'ADA. Dans le monde réel, il n'était personne, il ne comptait pour personne. Évelyne avait-elle compris que William était inventé de toutes pièces ? 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Chargement du monde...
+&nbsp;&nbsp;&nbsp;&nbsp;*Chargement du monde...*
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Évelyne n'était pas là, elle était déjà en jeu et était partie devant. Il poussa la porte de son manoir pour sortir. En tant que maître de guilde, William se détachait nettement des autres joueurs. Son nom couleur or, la couronne au-dessus de sa tête et un halo bien particulier, William était extraordinaire et ça se voyait. Quand une nouvelle recrue avait la chance de le croiser, elle le saluait et s'adressait à lui avec une extrême politesse. Qu'il était grisant d'être William. 
@@ -120,7 +123,7 @@ Sa confiance s'effritait déjà. Il vida son sac tant qu'il en avait le courage.
 Un numéro suivit son dernier message. Aussitôt, il fut interpellé par d'autres joueurs, perdant de vue Évelyne.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Déconnexion en cours...
+&nbsp;&nbsp;&nbsp;&nbsp;*Déconnexion en cours...*
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Il fixa son téléphone pendant plus d'une heure avant de rassembler suffisamment de courage pour le saisir et entrer le numéro d'Évelyne. Mais même ainsi, il fut bien incapable de presser le dernier bouton pour l'appeler. Il sursauta quand le téléphone sonna. Il reconnut le numéro qu'il fixait un instant auparavant. Le sang battit à ses oreilles et ses mains devinrent subitement moites. Il décrocha tout de même, mais aucun mot ne put passer ses lèvres.
