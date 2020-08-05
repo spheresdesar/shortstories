@@ -33,8 +33,10 @@ Il poussa un cri de colère et disparut totalement. Enu m'attrapa le bras et se 
 
 — Ne reste pas là, lui lança Enu. 
 
-Sila n'avait pas la force de lui répondre, elle voulait juste dormir, un peu, au soleil. Enu hésita un instant, puis reprit sa route en l'abandonnant derrière elle. 
-Des voix réveillèrent Sila en sursaut. Elle se cacha immédiatement dans un buisson et attendit de voir d'où elles provenaient. Un homme tenait une fillette par la main, une femme de grande taille les suivait à quelques distances. Ils étaient joyeux et semblaient insouciants des combats à quelques kilomètres de là. Et ils étaient étrangers. Sila n'en avait jamais vu de si près. Il était grand et leurs oreilles étaient encore plus allongées que les siennes. Leur peau était encore plus sombre que la sienne. Tandis qu'elle détaillait les promeneurs, la fillette tourna la tête dans sa direction et la salua avec un large sourire.
+Sila n'avait pas la force de lui répondre, elle voulait juste dormir, un peu, au soleil. Enu hésita un instant, puis reprit sa route en l'abandonnant derrière elle.
+
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;Des voix réveillèrent Sila en sursaut. Elle se cacha immédiatement dans un buisson et attendit de voir d'où elles provenaient. Un homme tenait une fillette par la main, une femme de grande taille les suivait à quelques distances. Ils étaient joyeux et semblaient insouciants des combats à quelques kilomètres de là. Et ils étaient étrangers. Sila n'en avait jamais vu de si près. Il était grand et leurs oreilles étaient encore plus allongées que les siennes. Leur peau était encore plus sombre que la sienne. Tandis qu'elle détaillait les promeneurs, la fillette tourna la tête dans sa direction et la salua avec un large sourire.
 
 &nbsp;&nbsp;&nbsp;&nbsp;🜘
 
