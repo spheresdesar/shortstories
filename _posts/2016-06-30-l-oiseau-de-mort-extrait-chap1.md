@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'Oiseau de Mort - Extrait du Chapitre premier
-date: 2016-06-30 00:00:00 -0700
+date: 2018-01-11 00:00:00 -0700
 category: oiseaudemort
 ---
 
