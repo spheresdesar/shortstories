@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Les Sphères de Sar
 tagline:          'Nouvelles d''autres mondes'
 description:      'Nouvelles d''autres mondes'
-url:              http://spheresdesar.com
+url:              https://spheresdesar.com
 baseurl:          /
 
 paginate: 10
