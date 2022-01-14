@@ -22,7 +22,7 @@ Les textes et images de ce site sont accessibles gratuitement, mais reste soumis
 
 ### Dr Jekyll et Mr Hyde
 Ce blog utilise le générateur de site [Jekyll](https://jekyllrb.com/) et est hébergé par [GitHub](https://github.com/). 
-Le thème original utilisé sur le blog est [Hyde](http://hyde.getpoole.com/).
+Le thème original utilisé sur le blog est [Hyde](https://hyde.getpoole.com/).
 Les commentaires sont gérés par la plateforme [Disqus](disqus.com).
 
 ### Contact
