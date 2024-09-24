@@ -33,10 +33,9 @@ Rishivi ramassa le cylindre, il prononça à nouveau la formule et la lueur s’
 — Et de onze, triompha le maître mage.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;La poitrine de l’enchanteur s’élevait doucement. Son essence, épuisée par le flux de magie qui l’avait traversé, peinait à retrouver sa vibration originelle. Le mage ne lui avait pas été d’un grand secours, Rishivi était ce que l’on appelle un éolien, un maître de l’air, mais ce portail avait été si complexe à ouvrir que seul un enchanteur comme Oshan Ranji Sundira en était capable. Ils étaient peu nombreux ceux qui, comme Oshan, savaient manier les quatre éléments, et ce mécanisme d’ouverture avait nécessité une dose adroite de chacun d’entre eux. Les enchanteurs sont loin d’égaler les maitres, mais ils ont une précision qui leur fait souvent défaut.
+&nbsp;&nbsp;&nbsp;&nbsp;La poitrine de l’enchanteur s’élevait doucement. Son essence, épuisée par le flux de magie qui l’avait traversé, peinait à retrouver sa vibration originelle. Le mage ne lui avait pas été d’un grand secours, Rishivi était ce que l’on appelle un éolien, un maitre de l’air, mais ce portail avait été si complexe à ouvrir que seul un enchanteur comme Oshan Ranji Sundira en était capable. Ils étaient peu nombreux ceux qui, comme Oshan, savaient manier les quatre éléments, et ce mécanisme d’ouverture avait nécessité une dose adroite de chacun d’entre eux. Les enchanteurs sont loin d’égaler les maitres, mais ils ont une précision qui leur fait souvent défaut.
 
 Le mage décida de s’occuper les mains en attendant le réveil de son associé. Il sortit le drone ainsi que sa boite de commande et son récepteur. Une à une, il vérifia la synchronisation des pierres de magie. 
-
 
 — Voyons ce que cette chose nous cache.
 
@@ -70,7 +69,7 @@ L’enchanteur se détacha pour se rapprocher de la vitre et embrasser ce nouvea
 
 À peine, l'enchanteur avait atteint son siège que le vaisseau perdit brusquement de l'altitude. Il s'accrocha aux sangles de toutes ses forces pour ne pas rouler dans la cabine.
 
-— Par l'éther ! jura Rishivi qui luttait pour garder le contact avec sa sphère de contrôle. 
+— Par l'Éther ! jura Rishivi qui luttait pour garder le contact avec sa sphère de contrôle. 
 
 L'ovoïde fit une large embardée, son nez se dirigeait droit vers la surface bleue et liquide. Il piqua finalement vers le ciel, perturbant une nuée d'oiseaux noirs et blancs. Oshan profita d'une légère accalmie pour se glisser dans son siège.
 
@@ -86,26 +85,26 @@ Le sang lui battait les tempes, il était en sueur et sentait déjà poindre la 
 
 — On aurait dû faire demi-tour, ajouta-t-il.
 
-Le mage jeta la tête en arrière et ferma les yeux. Après un long moment de silence, Oshan détacha ses sangles et risqua un oeil au hublot.
+Le mage jeta la tête en arrière et ferma les yeux. Après un long moment de silence, Oshan détacha ses sangles et risqua un œil au hublot.
 
 — Au moins, on s'est posé sur la terre ferme.
 
 — Ouais, répondit Rishivi, sans conviction.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Rishivi murmurait devant un panneau déployé sur la paroi de l'appareil. Le visage blême, il tanguait de gauche à droit comme pris d'ivresse.
+&nbsp;&nbsp;&nbsp;&nbsp;Rishivi murmurait devant le panneau déployé sur la paroi intérieur de l'appareil. Le visage blême, il tanguait de gauche à droit comme pris d'ivresse.
 
 — Alors, qu'est-ce que ça dit ? On peut sortir ou pas ?
 
 — Laisse-moi encore un peu de temps, je ne peux pas aller plus vite. 
 
-— La terre n'a pas l'air bien avenante, mais j'ai hâte de voir les trésors que cette sphère cache.
+— Le paysage n'a pas l'air bien avenant, mais j'ai hâte de voir les trésors que cette sphère cache.
 
 Oshan remonta le vaisseau à pas joyeux. Il sortit une première combinaison étanche qu'il vérifia en cochant une à une les lignes d'une liste accrochée à côté. Il s'était attelé à la seconde quand Rishivi referma le panneau.
 
 — Alors ?
 
-— Et bien, l'air de OSRM11 semble semblable au nôtre. En moins d'une journée, nous ne devrions plus sentir de différence.
+— Et bien, l'air de OSRM11 est comparable à la nôtre. En moins d'une journée, nous ne devrions plus sentir de différence.
 
 — L'odeur, intervint Oshan. L'odeur est toujours différente. Quelle est ton odeur, OSRM11 ? Sérieusement, ne pourrait-on pas leur donner des noms plus sympathiques ?
 
@@ -143,11 +142,11 @@ Rishivi était sorti du vaisseau, il était confus.
 
 Oshan baissa les yeux sur son magigramme, sans dire un mot.
 
-— Par les Quatre, c’est ce que je craignais. Tu n’as presque rien, c’est un monde stérile. Il va nous falloir des jours pour recharger les réserves d’énergies et ça serait à peine suffisant pour atteindre le portail. Autant dire qu’on risque fort de sombrer avant même se retrouver ce portail ! Et qui sait ce qu’il peut arriver entre-temps sur un monde inconnu sans moyen de transport. 
+— Par les Quatre, c’est ce que je craignais. Tu n’as presque rien, c’est un monde stérile. Il va nous falloir des jours pour recharger les réserves d’énergies et ça serait à peine suffisant pour atteindre le portail. Autant dire qu’on risque fort de sombrer avant même de retrouver ce portail ! Et qui sait ce qu’il peut arriver entre-temps sur un monde inconnu sans moyen de transport. 
 
 — Calme-toi. J’ai peut-être fait une erreur.
 
-— Les accumulateurs détectaient une énergie éolienne si faible que je les pensais endommagés. Je les ai changés et le résultat est resté le même. J’ai prié les Dieux pour que ce soit un simple problème d’afficheur. Je doute fort que tu aies dans le même temps fait une erreur aussi semblable. Qu’as-tu exactement découvert ?
+— Les accumulateurs détectaient une énergie éolienne si faible que je les pensais endommagés. Je les ai changés et le résultat est resté le même. J’ai prié les Dieux pour que ce soit un simple problème d’affichage. Je doute fort que tu aies dans le même temps fait une erreur aussi semblable. Qu’as-tu exactement découvert ?
 
 Oshan fit quelques pas avant de s’asseoir sur un rocher.
 
@@ -166,7 +165,7 @@ Oshan fit quelques pas avant de s’asseoir sur un rocher.
 — Oui, faisons ça. Je ne tiens pas à moisir ici.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Des voix étrangères. Les deux hommes discutaient de leurs résultats quand des voix se firent entendre par l’écoutille entrouverte de leur vaisseau. Rishivi se raidit. Oshan, quant à lui, se leva doucement pour jeter un oeil. Trois créatures bipèdes tiraient un chariot au contenu grouillant et visqueux. Elle se tenait à l’écart, mais regardait la structure ovoïde avec beaucoup d’intérêt.
+&nbsp;&nbsp;&nbsp;&nbsp;Des voix étrangères. Les deux hommes discutaient de leurs résultats quand des voix se firent entendre par l’écoutille entrouverte de leur vaisseau. Rishivi se raidit. Oshan, quant à lui, se leva doucement pour jeter un œil. Trois créatures bipèdes tiraient un chariot au contenu grouillant et visqueux. Elle se tenait à l’écart, mais regardait la structure ovoïde avec beaucoup d’intérêt.
 
 — Des locaux, dit-il tout bas sans les quitter des yeux.
 
@@ -177,6 +176,7 @@ Oshan fit quelques pas avant de s’asseoir sur un rocher.
 — Oshan, reste ici !
 
 Mais l’enchanteur avait déjà posé le pied sur la rampe et s’avançait vers les indigènes. Ils reculèrent et se rapprochèrent les uns des autres. Plus aucun mot ne sortait de leur bouche. 
+
 Rishivi passa la tête par l’ouverture, persuadé de voir l’enchanteur assailli d’un moment à l’autre. Oshan ne semblait pas inquiet. Les bras ouverts et arborant un large sourire, il marchait vers eux comme on le fait avec de vieux amis. Il n’émanait d’eux aucune hostilité. Vêtues d’un simple pagne et de sandales tressées, ses créatures étaient vraisemblablement de simples ouvriers, de paysans, ou l’équivalent dans leur culture. Il n’était qu’un enchanteur, mais c'était une condition bien supérieure à la leur. Ils étaient maintenant assez près pour voir leurs yeux écarquillés devant sa personne. L’un d’eux se jeta au sol devant Oshan et s’allongea sur le ventre, face contre terre. Les autres ne tardèrent pas à le suivre. L’enchanteur était en extase.
 
 — Ils me prennent pour une puissance supérieure, souffla-t-il. Ils sont peut-être plus perspicaces que je ne le pensais.
@@ -185,7 +185,7 @@ Rishivi passa la tête par l’ouverture, persuadé de voir l’enchanteur assai
 
 Rishivi s’était glissé derrière lui, un pistolet dans la main.
 
-— Ils honorent mon exceptionnelle essence, contrairement à tes semblables.
+— Ils honorent mon exceptionnelle essence, contrairement à tes confrères.
 
 Les créatures relevèrent brièvement la tête puis rampèrent pour se tourner à présent vers Rishivi.
 
@@ -225,11 +225,11 @@ Oshan avançait déjà vers les montagnes.
 
 — Si tu le dis.
 
-Posant négligemment le poisson par terre, Rishivi lui tourna le dos pour retourner au vaisseau. Il n’avait pas l’intention d’aller se perdre dans ces montagnes étrangères au milieu de ces choses primitives. Ils ne valent guère mieux que les animaux, un moment d’inattention et Oshan se ferait dévorer par ces carnivores. Le pilote, c’était lui. Pas besoin d’un magicien de second rang pour rentrer sur Maérïan. Il s’arrêta net. 
+Posant négligemment le poisson par terre, Rishivi lui tourna le dos pour retourner au vaisseau. Il n’avait pas l’intention d’aller se perdre dans ces montagnes étrangères au milieu de ces choses primitives. Ils ne valaient guère mieux que les animaux, un moment d’inattention et Oshan se ferait dévorer par ces carnivores. Le pilote, c’était lui. Pas besoin d’un magicien de second rang pour rentrer sur Maérïan. Il s’arrêta net. 
 
 — Je vais t’accompagner, pour ton propre bien.
 
-Sans Oshan, il devrait retourner dans l’armée régulière. Non, il n’y retournerait pas.
+Sans le talent d'Oshan, il devrait retourner dans l’armée régulière. Non, il n’y retournerait pas.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Les créatures les menèrent jusqu’à leur village à flanc de montagne. C’était un agrégat de maison de pierre et de bois rongés par le sel. L’un des indigènes était parti au-devant d’eux, il se présentait maintenant avec tout le village, autant que les explorateurs pussent en juger. On les guida vers une large place où tapis et coussins avaient été installés à leur intention. Quatre villageois sortirent d’une grotte légèrement en surplomb de la place. Chacun portait sur son dos un cadavre momifié paré d’atours et de vêtements colorés. Ils les déposèrent contre des petits dossiers. Rishivi détourna les yeux pour contrôler son malaise. On leur présenta des plats étranges de graines jaunes ou de racines, puis vint de nombreux chants et des danses surprenantes. 
@@ -289,7 +289,9 @@ Il décrit un cercle le doigt. Il faisait frais, mais l’air tremblota comme il
 
 — Piracanocha ! Vachuacamac !
 
-Alors que la nuit reprenait ses droits, ces mots se propagèrent dans la bouche de tous les villageois. Rishivi n’arrivait pas à apprécier leur adoration comme le faisait Oshan. La ferveur est éphémère, elle n’apporte qu’illusion. Sur sa sphère natale, Rishivi ne pouvait espérer un tel traitement de faveur. Il n’était qu’un mage médiocre, seule sa caste supérieure lui a permis de devenir maître. Oshan ne lui était inférieur que par son rang à l’académie, s’il avait été gratifié d’une essence plus prononcée, il aurait dû lui donner du “maitre archimage” et n’aurait jamais fini dans le programme d’exploration.
+Alors que la nuit reprenait ses droits, ces mots se propagèrent dans la bouche de tous les villageois. Rishivi n’arrivait pas à apprécier leur adoration comme le faisait Oshan. La ferveur est éphémère, elle n’apporte qu’illusion. 
+
+Sur sa sphère natale, Rishivi ne pouvait espérer un tel traitement de faveur. Il n’était qu’un mage médiocre, seule sa caste supérieure lui a permis de devenir maître. Oshan ne lui était inférieur que par son rang à l’académie, s’il avait été gratifié d’une essence plus prononcée, il aurait dû lui donner du “maitre archimage” et n’aurait jamais fini dans le programme d’exploration.
 
 — Impressionnant. Vraiment. Je dois m’avouer vaincu. Sans autre ressource que moi-même, je serais bien incapable d’une telle chose.
 
@@ -320,7 +322,7 @@ Rishivi recula, en proie à quelque horreur.
 
 — Imagine si nous partons comme des voleurs, imagine la répercussion sur ce village ou sur ces femelles.
 
-— Tu penses sincèrement que le sort de ces inférieurs m’intéresse un tant soit peu ? Ce monde comme ces choses n’ont rien à offrir, à moi ou au nouvel empire.
+— Tu penses sincèrement que le sort de ces inférieurs m’intéresse un tant soit peu ? Ce monde comme ces choses n’ont rien à offrir, à moi ou au Nouvel Empire.
 
 Le mage se redressa avec fierté et frappa son bâton sur le sol. Les fillettes sursautèrent et leurs sanglots devinrent muets.
 
@@ -331,11 +333,12 @@ Oshan indiqua aux filles de s’écarter. Son regard n’exprimait nulle résign
 — Qu’est-ce que notre monde, notre bel empire, peut bien m’offrir ?  Rien. Je n’ai pas le droit à la dignité d’un paysan, ni à l’honneur d’un mage pur. Sur Maérïan comme n’importe où sur les sphères de l’empire, seule ma haute naissance m’a permis d’accéder à ce petit statut dans notre grande institution technomagique.
 
 — Et c’est ainsi que vont les choses, Oshan. Les Dieux n’ont pas daigné t’accorder autre chose, soit satisfait de ce que tu as. Mais vu ton ingratitude, ils ont été visiblement trop généreux.
-Oshan se mit à rire.
+
+Oshan rit.
 
 — Ne joue pas à ça avec moi, je sais qui tu es. Tu subis notre monde, tu le fuis. Pourquoi m’as-tu accompagné la première fois ? J’ai vu tes yeux quand je t’ai proposé de me parrainer pour ce programme d’exploration. Je t’ai donné une excuse pour fuir tes responsabilités, tu as besoin de moi.
 
-Il lui était redevable, Rishivi en était conscient. Oshan était né parmi les supérieurs, il avait le pouvoir qui faisait défaut pour se soustraire à mes devoirs.
+Il lui était redevable, Rishivi en était conscient. Oshan était né parmi les supérieurs, il avait le pouvoir qui faisait défaut pour se soustraire à ses devoirs.
 
 — Peu importe, je suis prêt à faire face à ma famille si c’est la condition pour quitter cet endroit.
 
@@ -349,9 +352,15 @@ Le soleil jaune pointait ses premiers rayons quand Rishivi arriva à bout de sou
 Il s’effondra dans son siège. Son bras tremblant atteignit un bouton qui éclaira les commandes devant lui. Encore quelques heures et il rentrerait chez lui.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Il s’éveilla subitement sans avoir le souvenir de s’être endormi. Il se leva maladroitement et vérifia autour de lui. Personne. Oshan n’avait pas changé d’avis. 
+&nbsp;&nbsp;&nbsp;&nbsp;Il s’éveilla sans avoir le souvenir de s’être endormi. Il se leva maladroitement et vérifia autour de lui. Personne. Oshan n’avait pas changé d’avis. 
 
-Il a toujours voulu fuir notre monde, il ne s’y sentait pas à sa place, pensa-t-il. Tout comme moi. Mais comment peut-il être prêt à rester ici, pourquoi ce monde-là ? Il ne sait rien de ce monde. Il fait erreur, son ego, ou je ne sais quoi, l’aveugle. Je devrais peut-être aller le chercher ? Non, c’est son choix, il doit assumer. Je peux revenir dans quelque temps, ne serait-ce que pour vérifier qu’il est toujours en vie. Peut-être. Son regard s’arrêta sur la clé du portail. Et si moi aussi je trouvais un monde où je me sentirais à ma place ? Il actionna les moteurs et décolla.
+Il a toujours voulu fuir notre monde, il ne s’y sentait pas à sa place, pensa-t-il. Tout comme moi. Mais comment peut-il être prêt à rester ici, pourquoi ce monde-là ? Il ne sait rien de ce monde. Il fait erreur, son ego, ou je ne sais quoi, l’aveugle. Je devrais peut-être aller le chercher ? Non, c’est son choix, il doit assumer. Je peux revenir dans quelque temps, ne serait-ce que pour vérifier qu’il est toujours en vie. Peut-être. 
+
+Son regard s’arrêta sur la clé du portail. 
+
+Et si moi aussi je trouvais un monde où je me sentirais à ma place ? 
+
+Il actionna les moteurs et décolla.
 
 
 A.K.
