@@ -4,7 +4,7 @@ title: Passé, présent, futur
 date: 2017-04-17 00:00:00 -0700
 category: dm
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;Alors qu’il se lamentait sur sa dernière expérience qui avait une nouvelle fois donnée des résultats absurdes, Louis reçut un appel de sa cousine. Il activa le vidphone et une femme aux cheveux frisés apparut.
+&nbsp;&nbsp;&nbsp;&nbsp;Alors qu’il se lamentait sur sa dernière expérience qui avait de nouveau donné des résultats absurdes, Louis reçut un appel de sa cousine. Il activa le vidphone et une femme aux cheveux frisés apparut.
 
 
 — Emma ? J’espère que c’est important, je suis très occupé.
@@ -17,7 +17,7 @@ C’était totalement faux, mais il n’était pas d’humeur à socialiser.
 
 Elle sourit avec malice.
 
-— Je t’ai parlé de ce nouveau chantier qui démarrait il y a quelques semaines, non ? 
+— Je t’ai parlé de ce nouveau chantier qui a démarré il y a quelques semaines, non ? 
 
 — Une énième route ou un truc fascinant dans le genre.
 
@@ -25,7 +25,7 @@ Elle sourit avec malice.
 
 — Tu sais, les cailloux, c’est pas mon truc. Y’a plein de géologues que je peux te conseiller, si ça peut me permettre d’être tranquille.
 
-— Si tu me laissais finir ? Je vais finir par croire que tu es devenu un vieux grincheux. Donc... j’en étais où ? Ah oui. On a déjà fait venir un géologue, puis un archéologue, puis un second.
+— Si tu me laissais finir ? insista Emma. Je vais finir par croire que tu es devenu un vieux grincheux. Donc... j’en étais où ? Ah oui. On a déjà fait venir un géologue, puis un archéologue, puis un second.
 
 Louis tâchait du mieux qu’il pouvait de cacher son intérêt naissant.
 
@@ -41,15 +41,15 @@ Elle redressa la tête avec assurance.
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Louis coupa le vidphone et se laissa glisser dans son siège. Il jeta un dernier regard sur les graphiques de son dernier échec. Trois fois qu’il reconduisait cette expérience avec un nouveau protocole, et à chaque fois les mêmes anomalies. Il n’arrivait toujours pas à croire que ses calculs puissent être faux. Il prit une profonde inspiration et s’extirpa de son fauteuil. Un tour sur ce chantier me changera les idées, pensa-t-il. Exposer son génie devant plus médiocre que lui était un des petits plaisirs de Louis. 
+&nbsp;&nbsp;&nbsp;&nbsp;Louis coupa le vidphone et se laissa glisser dans son siège. Il jeta un dernier regard sur les graphiques de son échec. Trois fois qu’il reconduisait cette expérience avec un nouveau protocole, et à chaque fois les mêmes anomalies. Il n’arrivait toujours pas à croire que ses calculs puissent être faux. Il prit une profonde inspiration et s’extirpa de son fauteuil. Un tour sur ce chantier me changera les idées, pensa-t-il. Exposer son génie devant plus médiocre que lui était un de ses petits plaisirs. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Il entra les coordonnées que lui avait fournies Emma dans l’ordinateur de sa voiture. Elle démarra dans un léger vrombissement électrique. La musique s’enclencha automatiquement et, comme toujours, elle collait parfaitement avec son humeur du jour. Quand il aperçut les premiers panneaux indiquant le chantier, l’habitacle résonnait d’instruments à cordes jouant une mélodie complexe. 
+&nbsp;&nbsp;&nbsp;&nbsp;Il entra les coordonnées que lui avait fournies Emma dans l’ordinateur de sa voiture. Elle démarra dans un doux vrombissement électrique. La musique s’enclencha automatiquement et, comme toujours, elle collait parfaitement avec son humeur du jour. Quand il aperçut les premiers panneaux indiquant le chantier, l’habitacle résonnait d’instruments à cordes jouant d'une mélodie complexe. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;D’énormes engins étaient parqués à l’entrée du chantier. Le préfabriqué dans lequel l’attendait sa cousine paraissait minuscule à côté de ses mastodontes avides de forêts à raser. Il gara sa voiture tout près et sortit du coffre une grosse valise. Les roulettes heurtaient les cailloux du terrain malmené par les travaux. Il grommela sans craindre de se faire entendre.
+&nbsp;&nbsp;&nbsp;&nbsp;D’énormes engins étaient parqués à l’entrée du chantier. Le préfabriqué dans lequel l’attendait sa cousine paraissait minuscule à côté de ces mastodontes avides de forêts à raser. Il gara sa voiture tout près et sortit du coffre une grosse valise. Les roulettes heurtaient les cailloux du terrain malmené par les travaux. Il grommela sans craindre de se faire entendre.
 
 — Tu m’as l’air en forme, cousin. 
 
-Emma sortait du préfabriqué, un casque aplatissant son épaisse toison et un autre sous le bras. Elle se saisit de ce dernier et le tendit à Louis. Il batailla pour faire tenir la valise droite et visa le casque sur sa tête.
+Emma sortait du préfabriqué, un casque aplatissant son épaisse chevelure et un autre sous le bras. Elle se saisit de ce dernier et le tendit à Louis. Il batailla pour faire tenir la valise droite et vissa le casque sur sa tête.
 
 — Où se trouve la curiosité qui résiste à mes médiocres confrères ?
 
@@ -73,7 +73,7 @@ Elle lâcha d’une main le volant pour la glisser dans le porte-document rangé
 
 Avec appréhension, il s’écarta pour laisser les ouvriers partir sous la tente avec ses instruments. Mais il n’attendit pas l’invitation de sa cousine pour les suivre. Après plusieurs bâches séparant des pièces improvisées, il put enfin le voir. Il frissonna.
 
-— Je sais ce que ça fait, lança sa cousine avant de se placer à côté de lui. La première fois que j’ai pu le contempler en plein, ça m’a fait bizarre à moi aussi. Ceux qui ont fait cette chose devaient avoir un cerveau bien différent de nous. Il s’en dégage une aura dérangeante.
+— Je sais ce que ça fait, lança sa cousine avant de se placer à côté de lui. La première fois que j’ai pu le contempler en plein, ça m’a fait bizarre à moi aussi. Ceux qui ont fait cette chose devaient avoir un cerveau bien différent du nôtre. Il s’en dégage une aura dérangeante.
 
 Emma était une fervente amatrice d’art et son appartement regorgeait de sculptures plus étranges les unes que les autres. Et pourtant, elle était perturbée. 
 
@@ -81,11 +81,11 @@ Emma était une fervente amatrice d’art et son appartement regorgeait de sculp
 
 Il retourna à sa valise et la vida de ses instruments les uns après les autres. Il mesura, préleva, scanna tout ce qui pouvait l’être. Personne ne le dérangea, Emma avait veillé à ce que tout le monde dégage la zone pendant que son cousin travaillait. 
 
-Ils avaient grandi ensemble, leurs parents vivants dans des maisons côte à côte. Même pendant leurs études, Emma avait gardé contact avec Louis, bien que la personnalité bougonne de celui-ci ne se soit particulièrement affirmée depuis. Cela n’avait pas rebuté la jeune femme qui avait beaucoup de tendresse et d’amitié pour lui.
+Ils avaient grandi ensemble, leurs parents vivaient dans des maisons côte à côte. Même pendant leurs études, Emma avait gardé contact avec Louis, bien que la personnalité bougonne de celui-ci se soit affirmée avec le temps. Cela n’avait pas rebuté la jeune femme qui avait beaucoup de tendresse et d’amitié pour lui.
 
 — Alors ? Tes conclusions ? demanda-t-elle.
 
-Il quittait la tente en trainant sa valise derrière lui. Les deux ouvriers de tout à l’heure ressurgir pour la porter jusqu’à la voiturette.
+Il quittait la tente en trainant sa valise derrière lui. Les deux ouvriers de tout à l’heure ressurgirent pour la porter jusqu’à la voiturette.
 
 — Impossible à donner pour l’instant, répondit-il sans lâcher son matériel des yeux. Je dois rentrer ces analyses dans mon ordinateur. Je t’enverrais mes conclusions demain.
 
@@ -97,7 +97,7 @@ Il quittait la tente en trainant sa valise derrière lui. Les deux ouvriers de t
 
 — Les flux d’énergies dans la matière hécadienne, la corrigea-t-il. 
 
-— C’est bien ce que j’ai dit, dit-t-elle avec malice.
+— C’est bien ce que j’ai dit, rétorqua-t-elle avec malice.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Il dut se rendre à l’évidence, malgré son niveau de connaissances et sa maîtrise élevée, il était parvenu à la même conclusion que les experts d’Emma. Les matériaux qui composaient l’artefact étaient inconnus. Sa première réaction fut de contacter un collègue pour obtenir un accès aux bases de données concernant les analyses de météorites. Il était courant que des objets très anciens soient sculptés dans des roches ou métaux venus du ciel. Cette piste ne fut pas plus prolifique, l’origine comme les caractéristiques de ces matériaux étaient un mystère. 
@@ -105,7 +105,7 @@ Il quittait la tente en trainant sa valise derrière lui. Les deux ouvriers de t
 &nbsp;&nbsp;&nbsp;&nbsp;Il demanda une nouvelle analyse à l’ordinateur, cette fois-ci pour tenter une nouvelle approche. La machine annonça plusieurs heures de travail. Louis soupira en se laissant glisser sur son siège. Il était déjà bien tard et ses yeux le faisaient souffrir. Il coupa les écrans et monta jusqu’à sa chambre.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Louis relut les résultats. Il n’en croyait pas ses yeux. Tout indiquait que l’artefact n’était pas un simple objet culturel, c’était une machine. Le schéma tracé par l’ordinateur était familier. Un large réseau de lignes serpentait depuis un noeud à l’avant, comme les connexions d’une console ou d’un pupitre de commande. De plus, l’objet était creux et cet espace était assez haut pour qu’une personne s’y tienne debout sans difficulté.
+&nbsp;&nbsp;&nbsp;&nbsp;Louis relut les résultats. Il n’en croyait pas ses yeux. Tout indiquait que l’artefact n’était pas un simple objet culturel, c’était une machine. Le schéma tracé par l’ordinateur était familier. Un large réseau de lignes serpentait depuis un nœud à l’avant, comme les connexions d’une console ou d’un pupitre de commande. De plus, l’objet était creux et cet espace était assez haut pour qu’une personne s’y tienne debout sans difficulté.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Était-ce un abri ? Un véhicule ? Quoi qu’il en soit, ce n’était pas le plus étonnant pour Louis. Il tenait à bout de bras deux relevés de mesure imprimés sur du papier. C’était une méthode archaïque, mais il voulait être certain. Le premier venait d’une petite zone à l’avant de l’artefact, le second était tiré de sa dernière expérience. Il correspondait parfaitement. Il tenait quelque chose d’important, c’était évident. Mais quoi ?
 
@@ -126,7 +126,7 @@ Les pommettes de sa cousine se redressèrent avec amusement.
 
 Elle souriait maintenant à pleine dent.
 
-— Je savais que c’était un défi pour toi, cousin ! Si tu es prêt à refaire le déplacement, c’est que ça vaut vraiment le coup. Tu penses que tu vas faire une nouvelle découverte ? 
+— Je savais que c’était un défi pour toi, cousin ! Si tu es prêt à refaire le déplacement, c’est que ça vaut vraiment le coup. Tu penses faire une découverte ? 
 
 — Je ne m’avancerais pas sur ce point. Il est bien trop tôt pour parler de quelque découverte que ce soit. Mais... (Il fit une pause.) J’aimerais que tu n’ébruites pas trop la chose pour l’instant, je ne voudrais pas d’autres incapables dans les pattes.
 
@@ -138,7 +138,7 @@ Quelqu’un l’interpella hors de vue de la caméra du vidphone. Elle se pencha
 
 Elle avait repris l’attitude sérieuse qui l’avait menée à ses grandes responsabilités.
 
-— Je vais devoir y retourner, ce chantier ne va pas avancer tout seul. D’ailleurs, un dernier mot. Je n’attends qu’un mot de ta part pour déplacer cette chose, le planning est plus que chamboulé et les grands pontes commencent à s’impatienter. J’ai réussi à détourner leur attention jusque-là, mais je ne fais pas de miracle. J’aurais tout de même préféré que tu me dises que c’était qu’un vulgaire caillou. Bref, ne tarde pas trop, Louis !
+— Je vais devoir y retourner, ce chantier ne va pas avancer tout seul. D’ailleurs, je n’attends qu’un mot de ta part pour déplacer cette chose, le planning est plus que chamboulé et les grands pontes commencent à s’impatienter. J’ai réussi à détourner leur attention jusque-là, mais je ne fais pas de miracle. J’aurais tout de même préféré que tu me dises que c’était qu’un vulgaire caillou. Bref, ne tarde pas trop, Louis !
 
 Elle coupa la communication.
 
@@ -156,7 +156,7 @@ Sans un mot, il montra d’un signe de tête les immenses engins.
 
 — Oh, oui. Comme je te l’ai dit, je dois reprendre le chantier au plus vite. Désolée de te mettre la pression, mais si pour l’instant tu pouvais te contenter de nous dire si cette chose est transportable sans nous exploser à la figure, ou je ne sais quoi. On pourra même te la déposer devant ton labo, si ça te chante.
 
-— Je ne promets rien, mais je ferais au mieux, lâcha-t-il à contrecoeur.
+— Je ne promets rien, mais je ferais au mieux, lâcha-t-il à contrecœur.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Il souleva la dernière bâche et se trouva à nouveau face à l’objet de ses doutes. Contrairement à la veille, Emma resta avec lui tandis qu’il installait ses instruments. Quand il s’en rendit compte, il stoppa son mouvement pour la regarder. 
 
@@ -165,24 +165,24 @@ Sans un mot, il montra d’un signe de tête les immenses engins.
 Il répondit par un long soupir avant de reprendre son installation.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Il avait toujours en tête les analyses de la veille et il essaya de les transposer à l’objet devant lui, notamment pour repérer l’emplacement de l’hypothétique console. Alors qu’il scannait l’artefact, il laissa ses mains glisser sur sa surface. Il devait bien y avoir un moyen d’accéder à l’intérieur. Emma tint parole et l’observait en silence.
+&nbsp;&nbsp;&nbsp;&nbsp;Il avait toujours en tête les analyses de la veille, il essaya de les transposer à l’objet devant lui, notamment pour repérer l’emplacement de l’hypothétique console. Alors qu’il scannait l’artefact, il laissa ses mains glisser sur sa surface. Il devait bien y avoir un moyen d’accéder à l’intérieur. Emma tint parole et l’observait en silence.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ses doigts s’enfoncèrent doucement et un clic lointain se fit entendre. Un large pan de la paroi s’écarta dans bruit de succion et glissa vers le haut en laissant s’échapper un râle mécanique. Louis se couvrit la bouche pour se soustraire à l’odeur qui l’avait brusquement entouré et lui piquait les yeux.
+&nbsp;&nbsp;&nbsp;&nbsp;Ses doigts s’enfoncèrent doucement et un clic lointain se fit entendre. Un large pan de la paroi s’écarta dans un bruit de succion puis glissa vers le haut en laissant s’échapper un râle mécanique. Louis se couvrit la bouche pour se soustraire à la vapeur qui l’avait brusquement entouré et lui piquait les yeux.
 
-— Par tous les dieux ! s’exclama Emma avant de se mettre à tousser bruyamment.
+— Par tous les dieux ! s’exclama Emma avant de se mettre à tousser.
 
-À travers ses larmes, il distingua l’intérieur de l’engin qui n’était pas sans lui rappeler un avion. Son regard s’arrêta sur l’un des nombreux compartiments. Une forme anguleuse à l’aspect de cuir émergeait d’une petite couchette. Un haut-le-coeur le saisit quand il réalisa qu’il avait devant lui un cadavre. Il recula et se détourna avant de tousser de plus belle, manquant de justesse de rendre son petit déjeuner. Emma s’approcha avec inquiétude. Il leva une main pour la maintenir à distance. Quand il put enfin parler de nouveau, il lui dit entre deux quintes :
+À travers ses larmes, il distingua l’intérieur de l’engin qui n’était pas sans lui rappeler un avion. Son regard s’arrêta sur l’un des nombreux compartiments. Une forme anguleuse à l’aspect de cuir émergeait d’une petite couchette. Un haut-le-cœur le saisit quand il réalisa qu’il avait devant lui un cadavre. Il recula et se détourna avant de tousser de plus belle, manquant de justesse de rendre son petit déjeuner. Emma s’approcha avec inquiétude. Il leva une main pour la maintenir à distance. Quand il put enfin parler de nouveau, il lui dit entre deux quintes :
 
 — Tu avais promis de ne pas me déranger, je te demanderais de ne pas t’approcher plus près.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Il retira sa chemise et la noua derrière sa tête pour protéger sa bouche et son nez. Prenant une profonde respiration, autant pour profiter d’une dernière bouffée d’air frais que pour se donner du courage, il s’engouffra à l’intérieur avec sa lampe de poche.
+&nbsp;&nbsp;&nbsp;&nbsp;Il retira sa chemise et la noua derrière sa tête pour protéger sa bouche et son nez. Prenant une profonde respiration, autant pour profiter d’une dernière bouffée d’air frais que pour se donner du courage, il s’engouffra à l’intérieur, avec sa lampe de poche.
 
 &nbsp;&nbsp;&nbsp;&nbsp;C’était maintenant une évidence pour Louis. Il avait devant lui quelque chose qui ne devrait pas exister. Tout scientifique, toute personne logique, ne pourrait croire à l’existence de cet objet.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Il risqua un oeil vers le cadavre momifié. Réprimant un nouveau malaise, il examina ce qu’il en restait. Déjà quelques poussières se détachaient sous l’effet du courant d’air et laissaient apparaître des os jaunâtres. Les quelques traits que l’on pouvait encore deviner semblaient provenir d’une créature difforme. Les oreilles asséchées formaient une longue pointe. Son crâne était un peu trop allongé, tout comme ses mains. Ses vêtements n’étaient plus que des lambeaux de tissus indistincts le recouvrant. C’en était assez pour Louis, il passa à l’examen de l’engin proprement dit en essayant d’oublier ce regard dérangeant aux orbites enfoncées.
+&nbsp;&nbsp;&nbsp;&nbsp;Il risqua un œil vers le cadavre momifié. Réprimant un nouveau malaise, il examina ce qu’il en restait. Déjà quelques poussières se détachaient sous l’effet du courant d’air et laissaient apparaître des os jaunâtres. Les quelques traits que l’on pouvait encore deviner semblaient provenir d’une créature difforme. Les oreilles asséchées formaient une longue pointe. Son crâne était un peu trop allongé, tout comme ses mains. Ses vêtements n’étaient plus que des lambeaux de tissus indistincts le recouvrant. C’en était assez pour Louis, il passa à l’examen de l’engin proprement dit en essayant d’oublier ce regard dérangeant aux orbites enfoncées.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;La ressemblance avec un petit avion était encore plus flagrante maintenant qu’il se trouvait à l’intérieur. Mais par certains aspects, il ressemblait tout autant à un bateau. Il déplia une feuille de papier où était grossièrement schématisé l’emplacement de l’hypothétique console. Elle se trouva bien là. Il avança vers la saillie métallique qui avait été l’armature d’un siège. Celle-ci faisait face à un large panneau en arc de cercle recouvert de quelques commandes comme des boutons et des curseurs. Mais, plus étonnant, deux larges renflements sphériques émergeaient de part et d’autre. Avec précautions, il posa la paume de sa main sur l’un d’eux. Ses doigts atteignaient tout juste les bords de la sphère qui tourna sans difficulté. Surpris, il retira sa main brusquement. Il regarda alentour dans la crainte, ou peut-être l’espoir, de voir quelque chose réagir. La sphère avait stoppé net son mouvement quand ses doigts l’avaient quitté, mais le reste de l’appareil resta silence et poussière. 
+&nbsp;&nbsp;&nbsp;&nbsp;La ressemblance avec un petit avion était encore plus flagrante maintenant qu’il se trouvait à l’intérieur. Mais par certains aspects, il ressemblait tout autant à un bateau. Il déplia une feuille de papier où était grossièrement schématisé l’emplacement de l’hypothétique console. Elle se trouva bien là. Il avança vers la saillie métallique qui avait été l’armature d’un siège. Celle-ci faisait face à un large panneau en arc de cercle recouvert de quelques commandes comme des boutons et des curseurs. Mais, plus étonnant, deux larges renflements sphériques émergeaient de part et d’autre. Avec précautions, il posa la paume de sa main sur l’un d’eux. Ses doigts atteignaient tout juste les bords de la sphère qui tourna sans difficulté. Surpris, il retira sa main brusquement. Il regarda alentour dans la crainte, ou peut-être l’espoir, de voir quelque chose réagir. La sphère avait stoppé net son mouvement quand ses doigts l’avaient quittée, mais le reste de l’appareil resta silence et poussière. 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;À quoi rimait tout cela ? Bien que tout indiquait un objet séculaire, le parallèle avec des technologies récentes était indéniable. Chaque élément sur lequel ses yeux se posaient était à la fois familier et différent. 
@@ -221,9 +221,9 @@ Sa voix mourut quand il désigna l’engin. Emma se radoucit. Prise au dépourvu
 Il jeta un dernier regard sur l’objet en priant pour que ce soit la dernière fois, puis se précipita à l’extérieur pour y attendre sa cousine.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Il resta muet pendant le cours trajet jusqu’au box préfabriqué servant de bureau à sa cousine. Pour sa part, elle lui jetait des regards en biais, à la recherche de la moindre indication sur ce qu’il avait pu trouver à l’intérieur de l’artefact.
+&nbsp;&nbsp;&nbsp;&nbsp;Il resta muet pendant le court trajet jusqu’au box préfabriqué servant de bureau à sa cousine. Pour sa part, elle lui jetait des regards en biais, à la recherche de la moindre indication sur ce qu’il avait pu trouver à l’intérieur de l’artefact.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Il contacta son chef de laboratoire qui allait prendre le relais et s’occuper de tout le reste, comme prévenir l’université qui allait surement prévenir à son tour les autorités. Il demanda à ce que son nom comme celui de sa cousine ne soient pas mentionnés. Son chef, bien que surpris, accepta de faire son possible. Louis se satisfit de cette réponse et écourta la conversation dès qu’il le put.
+&nbsp;&nbsp;&nbsp;&nbsp;Il contacta son chef de laboratoire qui allait prendre le relais et s’occuper de tout le reste, comme prévenir l’université qui allait sûrement prévenir à son tour les autorités. Il demanda à ce que son nom comme celui de sa cousine ne soient pas mentionnés. Son chef, bien que surpris, accepta de faire son possible. Louis se satisfit de cette réponse et écourta la conversation dès qu’il le put.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Il s’apprêtait à partir sans saluer sa cousine qui l’intercepta alors qu’il rangeait ses instruments dans sa voiture.
 
@@ -239,7 +239,7 @@ Il leva les yeux sur elle.
 
 Elle lui sourit.
 
-— Je te dérange pas plus longtemps, file ! 
+— Je ne te dérange pas plus longtemps, file ! 
 
 Elle le salua de la main et retourna dans son bureau. Un sourire s’esquissa sur le visage de Louis, mais il s’effaça presque aussi rapidement.
 
@@ -251,11 +251,11 @@ Elle le salua de la main et retourna dans son bureau. Un sourire s’esquissa su
 
 — Je deviens fou ! Je suis un scientifique, comment je peux imaginer que ce soit possible ? murmura-t-il tout en déchargeant sa voiture.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Il jeta un oeil en contrebas où la ville s’étendait. Sa propre maison était à l’écart sur une large propriété lui permettant autant de faire ses expériences personnelles sans interférence que ne pas être importuné par un éventuel voisinage. Rien n’avait changé, s’aperçut-il avec soulagement. Il allait pouvoir reprendre ses expériences et oublier tout ça, il était même contrarié par avance, ce qui lui arracha un sourire satisfait.
+&nbsp;&nbsp;&nbsp;&nbsp;Il jeta un œil en contrebas où la ville s’étendait. Sa propre maison était à l’écart sur une large propriété lui permettant autant de faire ses expériences personnelles sans interférence que de ne pas être importuné par le voisinage. Rien n’avait changé, s’aperçut-il avec soulagement. Il allait pouvoir reprendre ses expériences et oublier tout ça, il était même contrarié par avance, ce qui lui arracha un sourire satisfait.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Un tintement dans sa poche se rappela à son souvenir quand il referma le coffre de sa voiture. Il sortit le cylindre de sa poche, ne serait-ce que pour vérifier que tout ça était bien réel. Le cristal irradia d’une lueur jaune et s’échauffa légèrement à travers le verre, ou quelque soit la matière transparente qui l’entourait. Louis réprima l’envie de lâcher. Un craquement sourd au dessus de sa tête détourna son attention du cylindre. L’air devint électrique dans un ciel pur et sans nuages, jusqu’à ce qu’il se déchire dans un puissant flash.
+&nbsp;&nbsp;&nbsp;&nbsp;Un tintement dans sa poche se rappela à son souvenir quand il referma le coffre de sa voiture. Il sortit le cylindre de sa poche, ne serait-ce que pour vérifier que tout ça était bien réel. Le cristal irradia d’une lueur jaune et s’échauffa légèrement à travers le verre, ou quelque soit la matière transparente qui l’entourait. Louis réprima l’envie de lâcher. Un craquement sourd au-dessus de sa tête détourna son attention du cylindre. L’air devint électrique dans un ciel pur et sans nuages, jusqu’à ce qu’il se déchire dans un puissant flash.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Louis se protégea les yeux de ses deux bras. Le cylindre tomba au sol sans se briser et perdit lentement de son aura. Quand il put à nouveau lever les yeux, Louis se figea de stupeur. Un puit multicolor trouait alors le ciel.
+&nbsp;&nbsp;&nbsp;&nbsp;Louis se protégea les yeux de ses deux bras. Le cylindre tomba au sol sans se briser et perdit lentement de son aura. Quand il put à nouveau lever les yeux, Louis se figea de stupeur. Un puits multicolore trouait alors le ciel.
 
 
 
