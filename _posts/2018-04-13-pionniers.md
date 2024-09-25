@@ -26,7 +26,7 @@ Myron esquissa un sourire en se penchant sur le classeur des procédures d'urgen
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Maître Elias fut le premier à revenir accompagné de monsieur Kléon, l'ingénieur en chef.
+&nbsp;&nbsp;&nbsp;&nbsp;Maître Elias fut le premier à revenir, accompagné de monsieur Kléon, l'ingénieur en chef.
 
 – Soyez attentifs, jeunes gens. Vous êtes des pionniers, lança ce dernier en s'installant à son poste. 
 
@@ -36,19 +36,19 @@ Agathe se leva pour laisser la place à Elias.
 
 Sans attendre, elle se saisit de la liste des différentes vérifications. Son maître s'approcha du cristal.
 
-– Rafail. Ici Elias. Prêt ?
+– Rafaïl. Ici Elias. Prêt ?
 
-– Ici Rafail, prêt.
+– Ici Rafaïl, prêt.
 
-Agathe cocha minutieusement chaque point. Des moteurs, aux capteurs en passant par les liaisons magiques, tout fonctionnait comme prévu. La peur s'était envolée, elle avait répété ces gestes des centaines de fois.
+Agathe cocha minutieusement chaque point. Des moteurs, aux capteurs en passant par les liaisons magiques, tout fonctionnait comme prévu. La peur s'était envolée, elle avait répété ces gestes des centaines de fois. Tout se passerait bien.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Sans s'en rendre compte, la salle s'était à nouveau remplie. Les différents responsables avaient pris place et les ingénieurs avaient rejoint Myron. Un cliquetis sonore annonça l'ouverture du panneau latéral, troublant la concentration d'Agathe. Elle lança un regard bref vers le général Theodoros. Si elle comprenait très bien les intérêts de l'armée, elle aurait préféré qu'il attende la fin de la mission pour se montrer. Il ne faudrait pas que ce grand jour soit gâcher par un impérial trop bruyant, ou son assistant maladroit.
+&nbsp;&nbsp;&nbsp;&nbsp;La salle s'était à nouveau remplie. Les différents responsables avaient pris place et les ingénieurs avaient rejoint Myron. Un cliquetis sonore annonça l'ouverture du panneau latéral, troublant la concentration d'Agathe. Elle lança un regard bref vers le général Theodoros. Si elle comprenait très bien les intérêts de l'armée, elle aurait préféré qu'il attende la fin de la mission pour se montrer. Il ne faudrait pas que ce grand jour soit gâcher par un impérial trop bruyant, ou son assistant maladroit.
 
 Le panneau était grand ouvert et la baie vitrée donnait maintenant sur un paysage vert et vallonné. À une centaine de mètres, la petite navette argentée se détachait du décor. À son pied, quatre mages dessinaient sur le sol à l'aide d'un bâton de métal rouge.
 
 
-Zacharias, le responsable de mission et Rafail échangeaient par l'intermédiaire d'Elias. Après quelques derniers encouragements, Zacharias dû interrompre la communication, car des "Oh !" et des "Ah" l'interrompit. Un crac sourd laissa place à une pluie de couleurs. Dans le ciel, à quelques mètres au-dessus de la navette, un puits lumineux était apparu et semblait déverser de la lumière à l'infinie. Pour la plupart, c'était la première fois qu'il voyait un portail. C'était le cas d'Agathe. Les yeux plissés, elle chercha à distinguer l'autre côté, en vain.
+Zacharias, le responsable de mission et Rafaïl échangeaient par l'intermédiaire d'Elias. Après quelques derniers encouragements, Zacharias dut interrompre la communication, car des "Oh !" et des "Ah" l'interrompit. Un crac sourd laissa place à une pluie de couleurs. Dans le ciel, à quelques mètres au-dessus de la navette, un puits lumineux était apparu et semblait déverser de la lumière à l'infinie. Pour la plupart des membres de la mission, c'était la première fois qu'ils voyaient un portail. C'était aussi le cas d'Agathe. Les yeux plissés, elle chercha à distinguer l'autre côté, en vain.
 
 Un panneau sombre coulissa devant la baie vitrée, rendant plus supportable la lumière.
 
@@ -64,22 +64,20 @@ Maître Elias se retourna vers Zacharias. Pendant ce temps, les mages aux sols s
 
 – Général Theodoros, je vous laisse l'honneur de lancer la mission.
 
-– Je vous remercie, Zacharias.
-
 Le général se leva de son siège, imité par son assistant. Il s'éclaircit la gorge.
 
-– Annoncez à votre équipage qu'il a l'autorisation de décoller. L'empire est avec eux.
+– Annoncez à votre équipage qu'il a l'autorisation de décoller. L'Empire est avec eux.
 
-– Bien, générale. (Elias se tourna vers le cristal et l'activa.) Rafail, ici Elias. Ton voyage commence. Que les Dieux soient avec toi et ton équipage.
+– Bien, général. (Elias se tourna vers le cristal et l'activa.) Rafaïl, ici Elias. Ton voyage commence. Que les Dieux soient avec toi et ton équipage.
 
 – Bien reçu. 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Agathe retint un soupir. Une nouvelle fois, le général Theodoros posait la même question.
+&nbsp;&nbsp;&nbsp;&nbsp;Agathe retint un soupir exaspéré. Une nouvelle fois, le général Theodoros posa la même question.
 
 – Est-ce encore long ? 
 
-– Seuls les Dieux le savent, général, répondit le responsable Zacharias. La précédente expédition n'a pas pu nous le dire.
+– Seuls les Dieux le savent, général, répondit le responsable Zacharias. La précédente expédition n'a pas pu nous rapporter le temps de traversée.
 
 – Ne faudrait-il pas garder un contact permanent avec la navette ? Pour éviter un nouvel échec ?
 
@@ -102,9 +100,9 @@ L'assistant hocha humblement de la tête.
 
 – D'ici une minute environ. Tiens-toi prête, Agathe.
 
-Ce rappel n'était pas nécessaire, Agathe balayait déjà les différentes fréquences. A l'heure dite, un grésillement se fit entendre. Le silence se fit dans la salle.
+Ce rappel n'était pas nécessaire, Agathe balayait déjà les différentes fréquences. À l'heure dite, un grésillement se fit entendre. Le silence se fit dans la salle.
 
-– Ici Rafail, rien à signaler. Nous suivons toujours le cours du puits de lumière. Prochain contact dans cinq minutes. Terminé.
+– Ici Rafaïl, rien à signaler. Nous suivons toujours le cours du puits de lumière. Prochain contact dans cinq minutes. Terminé.
 
 – Ici Elias, bien reçu.
 
@@ -116,11 +114,11 @@ La tension diminua dans la salle.
 
 – Tout à fait.
 
-Dans une caisse contenant une vingtaine de petites pierres jaunes soigneusement alignées, Agathe se saisit de l'une d'elles et l'inséra dans le tableau devant elle. D'un geste parfaitement maitrisé, elle l'activa à l'aide de sa magie et la synchronisa sur le cristal de communication. Elias vérifia son travail et hocha la tête pour approuver le résultat, comme d'habitude.
+Dans une caisse contenant une vingtaine de petites pierres jaunes soigneusement alignées, Agathe se saisit de l'une d'elles et l'inséra dans le tableau devant elle. D'un geste parfaitement maitrisé, elle l'activa à l'aide de sa magie et la synchronisa sur le cristal de communication. Elias vérifia son travail et hocha la tête pour approuver le résultat.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Le temps avançait. Le portail éclairait toujours de sa lumière colorée le paysage alentour. Régulièrement, les mages redessinaient par dessus leur sortilège pour le recharger en énergie et maintenir le portail. Qui sait ce qu'il se passerait si le portail se refermait alors qu'un vaisseau voyage à l'intérieur ? En tout cas pas Agathe. 
-Le voyage semblait interminable. A deux reprises, certains admirent l'éventualité pour l'équipage de faire demi-tour. Zacharias s'y opposa farouchement. Alors que le général acquiesçait, un nouveau grésillement se fit entendre.
+&nbsp;&nbsp;&nbsp;&nbsp;Le temps avançait. Le portail éclairait toujours de sa lumière colorée le paysage alentour. Régulièrement, les mages redessinaient par dessus leur sortilège pour le recharger en énergie et maintenir le portail. Qui sait ce qu'il se passerait si le portail se refermait alors qu'un vaisseau voyage à l'intérieur ? En tout cas, pas Agathe. 
+Le voyage semblait interminable. À deux reprises, certains admirent l'éventualité pour l'équipage de faire demi-tour. Zacharias s'y opposa farouchement. Alors que le général acquiesçait, un nouveau grésillement se fit entendre.
 
 – Ic... du port... vue. 
 
@@ -146,12 +144,12 @@ La voix dans le cristal se fit brusquement plus nette.
 
 Le message s'arrêta brusquement. Le grésillement se tut. 
 
-– Ici Elias, répondez. Ici Elias, Rafail répond.
+– Ici Elias, répondez. Ici Elias, Rafaïl répond.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Les minutes défilèrent. Puis les heures. Le cristal de communication resta désespérément silencieux.
 
-– Elias à Rafail. Répondez.
+– Elias à Rafaïl. Répondez.
 
 Depuis plus d'une demi-heure, c'était les seuls mots qu'Agathe pouvait entendre distinctement. Dans son dos, elle entendait le général et Zacharias murmurer de plus en plus vigoureusement sans parvenir à les comprendre. Théodoros s'exclama finalement quelques instants plus tard.
 
@@ -172,17 +170,17 @@ Elle avait parlé plus fort qu'elle ne l'aurait voulu, mais elle ne put s'empêc
 
 – Vous les condamnez au bout de deux petites heures ? Vous n'avez aucune idée de ce qu'il se passe et vous osez prendre cette décision ? Il nous a fallu des mois pour préparer cette mission, des semaines à dix mages pour trouver la clé de ce portail, l'équipage s'est entraîné jour et nuit pour ça et vous les abandonnez au bout de deux heures ? N'avez-vous aucune honte ?
 
-– Tu as fini, Agathe ?
+– Tu as fini, Agathe ? répondit sèchement Elias.
 
-– Ne la réprimande pas, Elias, intervint Zacharias. Ton apprentie a tout à fait le droit de penser ainsi. Malheureusement, jeune fille, nous ne pouvons pas maintenir la mission plus longtemps. Les mages sont épuisés et l'empire ne veut pas s'acharner.
+– Ne la réprimande pas, intervint Zacharias. Ton apprentie a tout à fait le droit de penser ainsi. Malheureusement, jeune fille, nous ne pouvons pas maintenir la mission plus longtemps. Les mages sont épuisés et l'empire ne veut pas s'acharner.
 
-– Est-ce s'acharner que de vouloir sauver nos compatriotes ? Ce sont des héros qui ont fait avancer nos connaissances plus que le dernier siècle tout entier. Et vous les laissez mourir parce qu'on vous dit de le faire.
+– Est-ce s'acharner que de vouloir sauver nos compatriotes ? Ce sont des héros et vous les laissez mourir parce qu'on vous dit de le faire ?
 
 – Agathe. Ça suffit. Tu t'es exprimée bien plus que nécessaire.
 
 Maître Elias avait posé sa main sur son épaule. 
 
-– Maître Spiro, maître Takis, maître Helena, maitre Rafail. Je les connaissais personnellement, je connaissais leur famille. L'empire prendra soin de ceux qui restent, leur nom ne sera pas oublié. C'est tout ce que nous pouvons faire pour eux.
+– Maître Spiro, maître Takis, maître Helena, maître Rafaïl. Je les connaissais personnellement, je connais leur famille. L'Empire prendra soin de ceux qui restent, leur nom ne sera pas oublié. C'est tout ce que nous pouvons faire pour eux.
 
 Le responsable Zacharias n'attendit pas la réponse d'Agathe et se dirigea vers la sortie. Après quelques instants d'hésitation, la salle se vida doucement et en silence. Agathe était figée de colère, la main de son maître toujours sur son épaule. Elle sortit de sa torpeur quand Myron lui tapota doucement l'épaule avant de s'en aller. Le chef ingénieur Kléon était à côté d'elle et attendait patiemment qu'elle le remarque.
 
@@ -204,7 +202,7 @@ Ses idées se mélangèrent. Par quoi commencer ? Elle voulait le remercier, cri
 
 &nbsp;&nbsp;&nbsp;&nbsp;Deux heures supplémentaires s'étaient écoulées. Kléon avait rapporté de quoi manger. Mais Agathe n'avala presque rien. Elle écoutait d'une oreille distraite Elias et Kléon discuter.
 
-– Même à l'Académie, Rafail tapait sur les nerfs de tout le monde. Même des professeurs. Mais il était tellement doué en tout qu'ils ne pouvaient rien lui dire. Alors quand il a choisi la même spécialité que moi en dernière année, je me suis imaginé passer la pire année de ma vie. 
+– Rafaïl tapait sur les nerfs de tout le monde. Même des professeurs. Mais il était tellement doué en tout qu'ils ne pouvaient rien lui dire. Alors quand il a choisi la même spécialité que moi en dernière année, je me suis imaginé passer la pire année de ma vie. 
 
 – Et pourtant, on n'a jamais pu vous séparer, votre duo était connu jusque dans le département d'ingénierie.
 
@@ -213,7 +211,7 @@ Ses idées se mélangèrent. Par quoi commencer ? Elle voulait le remercier, cri
 Elias rit doucement, il cachait sa tristesse, tout du moins, essayait-il.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;La boite de pierres jaunes était à présent remplie de pierres vides. Elle venait d'installer la dernière dans son tableau de commande. La nuit tombait lentement sur le paysage qu'elle avait appris par coeur à force de scruter le moindre signe de l'autre côté. Elias et Kléon étaient silencieux, ils n'avaient plus ouvert la bouche que pour dire des banalités. Était-ce vraiment perdu ?
+&nbsp;&nbsp;&nbsp;&nbsp;La boite de cristaux était à présent remplie de pierres vides. Elle venait d'installer la dernière dans son tableau de commande. La nuit tombait lentement sur le paysage qu'elle avait appris par cœur à force de scruter le moindre signe de l'autre côté. Elias et Kléon étaient silencieux, ils n'avaient plus ouvert la bouche que pour dire des banalités. Était-ce vraiment perdu ?
 
 – Agathe, ça suffit, dit finalement Elias. Il faut savoir lâcher prise.
 
@@ -227,13 +225,15 @@ Elias rit doucement, il cachait sa tristesse, tout du moins, essayait-il.
 
 – Je veux essayer encore un peu, jusqu'à ce que la pierre s'épuise. S'il vous plaît.
 
-– D'accord, mon apprentie, mais n'est pas trop d'espoir.
+Son maitre soupira.
+
+– D'accord, mon apprentie, mais n'ai pas trop d'espoir.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;La lumière de la dernière pierre vacillait, annonçant qu'elle allait bientôt s'éteindre. Agathe aurait voulu pleurer, mais elle devait rester forte. Elle avait tout essayé, elle avait fait de son mieux. Et puis elle devrait s'occuper de son maître, il avait perdu son meilleur ami.
 Un flash soudain illumina la salle de contrôle et la vallée alentour. Un grésillement familier se fit entendre.
 
-– ...ci... fail... vez... coup... temps...
+– ...ci... faïl... vez... coup... temps...
 
 Une faille mouvante de moins d'un mètre s'était ouverte en lieu et place du portail et le cristal de communication luisait.
 
@@ -241,7 +241,7 @@ Une faille mouvante de moins d'un mètre s'était ouverte en lieu et place du po
 
 Le cristal s'éteignit alors que la pierre avait consommé toute son énergie. Agathe se jeta sur le cristal, devançant son maître. De toute sa volonté, elle alimenta le cristal qui rougeoyait à nouveau.
 
-– Ici Rafail, vous nous recevez ?
+– Ici Rafaïl, vous nous recevez ?
 
 – Ici Elias, oui, oui, on vous reçoit. Par tous les Dieux !
 
@@ -250,3 +250,6 @@ Le cristal s'éteignit alors que la pierre avait consommé toute son énergie. A
 – Bien sûr, tout de suite ! Agathe !
 
 Sans attendre un mot de plus, Agathe bondit de sa chaise et quitta la salle de contrôle pour chercher de l'aide.
+
+
+A.K.
