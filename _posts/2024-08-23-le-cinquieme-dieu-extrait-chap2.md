@@ -31,7 +31,7 @@ Mon associé leva sa main tachée par les années et entama une incantation. Je 
 
 Les capteurs s’activèrent. Les aiguilles sautillèrent. Le papier entama sa course. J’oubliai sur-le-champ ma frustration et tendis le cou. Corvin notait scrupuleusement l’évolution des autres appareils. Il souriait. Ce simple fait m’emplit d’excitation, car mon associé n’était pas quelqu’un d’expressif.
 
-— On tient vraiment quelque chose, marmonna-t-il.
+— On tient vraiment quelque chose, marmonna-t-il.<!--more-->
 
 &nbsp;&nbsp;&nbsp;&nbsp;Une sonnerie retentit. Je franchis le cercle autour de l’expérience. Aussitôt, les aiguilles se figèrent, les cristaux s’éteignirent et le défilement du papier s’arrêta net. Dans ce monde régi par la magie, j’en étais la négation, elle  s’endormait dans mon entourage. C’était une constante fâcheuse, une étrange capacité dont je devais m’accommoder, celle qui m’avait valu de grandir à l’Académie. Mais il m’en fallait plus pour me décourager. 
 
