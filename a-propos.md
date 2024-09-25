@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos
+title: À propos
 ---
 
 > Moi c'est Alice Katovar. Je suis votre guide dans cet univers bien vaste et étrange. J'espère que vous prendrez autant de plaisir que moi à le parcourir. 

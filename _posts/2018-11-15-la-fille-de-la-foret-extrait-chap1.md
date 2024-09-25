@@ -1,252 +1,117 @@
 ---
 layout: post
-title: L'éveil de la Daeva - Extrait du Chapitre 1
-date: 2018-11-15 00:00:00 -0700
+title: La fille de la forêt - Extrait du Chapitre 1
+date: 2016-11-07 00:00:00 -0700
 category: roman
 ---
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;J’époussetai soigneusement mon uniforme, cirai mes bottes et lustrai mon insigne. J’espérais bien croiser le regard de l’Empereur cette fois. Le nœud dans mon ventre ne cessait de se tortiller. On frappa à la porte.
-
-— Entrez.
-
-La porte s’ouvrit pour laisser passer l’Archimage Riad.
-
-— Sarosh, j’ai une lettre pour toi.
-
-Je clignais des yeux, n’imaginant pas l’Archimage faire le coursier, avant de réaliser que la missive devait provenir de l’Académie.
-
-— Est-ce bien ce que je pense, Archimage ?
-— Exactement.
-
-Il me tendit l’enveloppe que j’ouvris avec précipitation pour la lire avidement.
-
-— Alors ? Quand est-ce que tu commences ?
-
-Le texte était long et pompeux, vantant tour à tour le général Odrèk et l’Académie elle-même. Je sautais même quelques paragraphes à la recherche de la réponse tant attendue. Je me figeai, relus plusieurs fois le dernier paragraphe, puis posa la lettre sur le bureau, le regard vide.
-
-— Sarosh ? 
-
-— Je… Ils ne me formeront pas.
-
-— Merde ! C’est quoi ces conneries ? Depuis quand l’Académie refuse des élèves de ton potentiel ? Recommandé par le général en plus ! C’est n’importe quoi !
-
-La surprise m’avait sonné. Je n’avais pas imaginé un seul instant le refus.
-<!--more-->
-
-— Il semblerait qu’il soit en pénurie de professeurs à cause des tempêtes.
-
-— Ah, les réquisitions… Mais les cours collectifs sont toujours assurés, non ?
-
-— Oui, mais mon cas nécessite un soutien supplémentaire qu’ils ne peuvent se permettre.
-
-— Ton cas ?
-
-— Je suis trop âgé.
-
-— Trop âgé ? Ils ont sorti l’argument de l’essence vierge des enfants, je parie. Si des mômes peuvent suivre le cours collectif, j’vois pas pourquoi tu n’y arriveras ! 
-
-Riad me mettait mal à l’aise. Il semblait bien plus en colère que moi, mon manque de réaction apparaissait incongru au regard de son emportement. Il me tapa sur l’épaule avec compassion.
-
-— Allez, ne sois pas si morne. Tu as le meilleur des professeurs avec toi.
-
-— Maître Talik ?
-
-— Oui, aussi.
-
-Il rit aussi franchement qu’il pestait un instant auparavant.
-
-— Ne t’inquiète pas, je vais en toucher deux mots à quelques connaissances. Mais en attendant, on peut profiter de notre court temps libre pour avancer sur les bases tous les deux, en complément des enseignements de l’innée.
-
-— Merci, Archimage.
-
-Il quitta mon appartement, me laissant seul devant mon uniforme immaculé.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;*Étais-je égoïste de penser à mon avenir, à ma carrière, quand de monstrueuses tempêtes frappaient le monde entier ? 
-Et puis, que pourrai-je faire d'autre ? Me lamenter sur les dieux comme un paysan impuissant ? Tout ce que je peux faire, c’est aider Talik et faire ce que le général attend de moi. C’est déjà pas mal, non ?*
-
-J’enfilai mon uniforme, ajustai ma ceinture et redressai mon insigne. Le couvre-chef bien enfoncé sur ma tête, je baissais les yeux sur le courrier de l’Académie. D’un geste assuré, je le pliai soigneusement et le rangeai au milieu des autres correspondances. 
-
-*Voilà une situation qui rassurera mon père.*
-
-La tête haute, je fermais la porte de mon appartement pour rejoindre celui du général Odrèk.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ce dernier était à son bureau quand on m’introduit. Il lisait des douzaines de missives, sûrement bien plus importantes que la mienne. J’attendis patiemment qu’il lève les yeux vers moi pour le saluer.
-
-— Sarosh. Trouve-toi un siège. L’entretien n’est pas encore terminé.
-
-— Merci, général.
-
-Que pouvaient-ils bien se raconter ? Je balayais la pièce du regard, à la recherche d’un fauteuil. J’en trouvais une paire près d’une large bibliothèque. Mû par la curiosité, je penchais légèrement la tête pour lire différents titres d’ouvrages. La plupart m’étaient connus, des livres de grands stratèges, des récits historiques. Mais plus surprenant, de la poésie. Et sur une tablette légèrement en retrait, je pouvais voir un fin volume fendu d’un cordon rouge. Je m’avançais pour distinguer le titre imprimé sur la sobre couverture.
-
-— La sagesse d’Abu ka Sina, dit le général qui s’était avancé sans que je le remarque. Une écriture simple, mais des propos qui révèlent tout leur sens en ce moment.
-
-Il saisit l’ouvrage et le rangea sur une étagère. Je mémorisais ses mots pour me le chercher à la bibliothèque.
-
-— Nous n’avons pas vraiment eu le temps de bavarder depuis que tu as rejoint Talik.
-
-Il m’observa avant de reprendre.
-
-— Quel est ton lien avec la magicienne ? Je sais qu’elle t’a enseigné la magie alors que tu n’as pas passé la révélation. Je ne parle donc pas de ta relation professeure-élève. 
-Je veux connaitre la source de ta loyauté envers elle qui semble avoir pris le pas sur ton serment envers l’armée impériale.
-
-Sa question était directe et me prit de court. J’étais bien ennuyé pour lui répondre, car je n’en avais aucune idée précise moi-même. Je tâchais de gagner du temps.
-
-— Si ma loyauté envers vous et l’armée est remise en cause, mon général, je me ferai un devoir de lever ses doutes. 
-
-— Bien. Je t’en prie.
-
-— Et bien, mon intuition m’a soufflé qu’elle était d’une importance capitale pour l’Empire.
-
-Il s’était installé dans le second fauteuil et ne me quittait pas du regard, sûrement peu convaincu par l'argument. Je m’éclaircis la voix.
-
-— Et je ne pouvais pas laisser passer la chance d’être formé par une mage innée rodée aux méthodes aussi bien offensives que défensives mises au point sur le terrain en Janaad.
-
-J’étais plutôt satisfait et me détendis.
-
-— C’est un jugement cohérent. Il est vrai que nos éoliens sont rarement utilisés sur le terrain. Les techniques de Talik, d’après les rapports du Commandant Négar, sont assez originales. Grâce à l’Académie, tu vas pouvoir confronter les deux écoles. Ce qui peut être très intéressant pour l’Empire, je l'admets.
-
-Mes traits se crispèrent. Je choisis soigneusement mes mots.
-
-— C’est exactement ce que je me suis dit, mon général. Malheureusement, je crains que ce soit impossible pour le moment. L’Académie ne pourra pas m’accueillir tant que ses professeurs devront se concentrer sur les tempêtes.
-
-— C’est ennuyeux. Tu dois être déçu.
-
-— Je reste un soldat de l’Empire, mon général. 
-
-— C’est exact.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;La porte s’ouvrit et seule Talik passa la porte avec cette démarche légère qui me surprenait encore. Ainsi donc, je ne verrais pas l’empereur aujourd’hui encore. Résigné, je me levais pour saluer l’arrivée de ma maîtresse. Comment allai-je lui annoncer la nouvelle ?
-
-— Maître Talik, j’espère que l’entretien avec l’Empereur s’est bien déroulé. 
-
-— Général. (Elle le salua.) Tout à fait.
-
-— As-tu des informations à me transmettre ?
-
-— Non, général. Rien que vous ne sachiez déjà.
-
-— Parfait, nous pouvons donc commencer tout de suite.
-
-Je me décalais pour laisser le siège à Talik. Le chien du général surgit à ce moment-là d’une autre pièce, lécha la main de Talik avant de s’installer aux pieds du général un peu agacé.
-
-— Comme vous le savez, ma tâche et donc la vôtre est de nous occuper de ses tempêtes et de leurs conséquences. Nous avons assez peu de retours des équipes de chercheurs mis en place sur le sujet, mais les tensions sont montées d’un cran depuis la dernière en date. Ton aura est importante Talik, mais fortement mitigée. Il faut l’utiliser avec beaucoup de précautions.
-
-Elle resta de marbre, mais je savais que cela la préoccupait bien plus qu’elle ne le laissa paraître. 
-
-— Nous devons préparer un plan d’action en cas d’alerte. Tant que les chercheurs n’ont pas mieux, tu es notre seule alarme Talik, je compte sur toi. Mais il faut aussi mettre en place un système efficace de communication et de logistique pour mettre à l’abri les populations et infrastructures. Tes conseils seront précieux. Sarosh restera avec toi et il aura bientôt un cristal d’appel pour donner l'alerte. Nous allons fournir des récepteurs aux principaux postes régionaux qui transmettront l’information dans leur province en cas d’alerte.
-
-— Ce cristal permet d’envoyer d’autres informations ? demandais-je. Talik peut prédire la direction et la puissance de la tempête.
-
-— Effectivement, acquiesça sobrement ma maîtresse.
-
-Le général s’enfonça un peu plus dans son siège et réfléchit.
-
-— Avec cette information, nous pourrions concentrer nos premiers efforts sur les zones les plus à risque. Je n’en avais pas connaissance. Il faut évidemment l’exploiter. Mais les cristaux que j’ai demandés sont trop simples pour envoyer une telle donnée et il est trop tard pour les modifier.
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Nous passâmes la journée à préparer ce plan d’action, rapidement rejoint par Riad et plusieurs conseillers aux spécialités diverses. Ma maitresse n’intervint que très rarement et quand cela arrivait, elle imposait le silence autour d’elle comme une statue menaçante s’éveillant soudain. Pour ma part, je fus préposé à la prise de note, ce qui me permit d’observer attentivement les différents intervenants. Une vieille habitude. 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;La nuit s’annonçait quand nous quittâmes les appartements du général. Talik était épuisé. Elle avait passé l’avant-veille à protéger le palais des assauts de la dernière tempête. Passé l’étrange euphorie de la veille, elle semblait à présent accablée par un énorme poids que sa démarche flottante ne parvenait pas à masquer.
-Je l’accompagnais jusqu’à ses quartiers sans un mot. Elle brisa finalement le silence devant sa porte.
-
-— Ainsi tu n’iras pas à l’Académie.
-
-L’information avait échappé à Riad pendant la réunion.
-
-— L’Académie a d’autres priorités, semble-t-il, soupirai-je.
-
-— Nulle ne sait combien de temps ces tempêtes vont se produire. Se concentrer sur le présent sans préparer l’avenir est une erreur. 
-
-Son air sévère contrasta avec mon sourire. Ces quelques mots m’avaient réconforté. Nous devions préparer l’avenir. C’est exactement ce que nous avions fait toute la journée dans le bureau du général. Je m’enorgueillis à cette idée d’avoir été utile.
-
-Elle croisa mon regard et se détendit à son tour. Elle fit signe au domestique qui patientait devant ses appartements d’ouvrir sa porte avant de l’envoyer préparer du thé.
-
-— Je vais donc devoir continuer à te former, mon apprenti. Reste donc bavarder un peu. J’ai besoin de me changer les idées.
-
-Sur mes gardes, je la suivis à l’intérieur.
-
-— Ne devriez-vous pas vous reposer ?
-
-Un voile passa devant ses yeux.
-
-— Je ne préfère pas.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Je m’assis au milieu des coussins de son salon à la mode de Janaad. Elle fit de même, avec bien plus de grâce. Le menton vers le ciel et les yeux clos, elle respira profondément à quatre reprises avant de me faire à nouveau face. 
-
-— Tu n’es pas trop déçu d’être bloqué avec moi au lieu de rejoindre les autres magiciens de l’Académie ?
-
-— Pour passer mes journées à entendre de vieux bonshommes me parler comme un enfant ? Non, je suis plus utile ici.
-
-— Tu n’es pas obligé de mentir. 
-
-— Je ne mens pas.
-
-— Tu mens encore.
-
-Je pris le temps de réfléchir.
-
-— Je ne sais pas si je suis déçu, j’en sais rien. Je ne m’y attendais pas. 
-
-— Tu as le droit d’être en colère.
-
-— Et ça changerait quoi ? répondis-je sèchement.
-
-Je me levai brusquement et arpentai la pièce, laissant mes émotions s'exprimer.
-
-— J’avais tout ce qu’il fallait et pourtant on m’a rejeté. Pour la première fois, je prends le risque de dévier de la route toute tracée pour moi. Une seule petite fois où je fais mon propre choix. Tout ça à cause de ces fichues tempêtes. Et vous… 
-
-Je perdis le contrôle de ma frustration qui se tourna vers ma maîtresse.
-
-— J’aimerais bien savoir pourquoi un sourire se dessine sur votre visage quand les premières vagues nous touchent. Vous le cachez, mais moi je le vois. Parfois je me dis que...
-Rattrapant de justesse des mots que j'aurais regrettés, j’attrapais le coussin d’un fauteuil et l’envoyais contre le mur.
-
-— Je suis navrée, Sarosh. Je ne souhaite pas te causer du tort, dit-elle à voix basse.
-
-Je n’osais pas me retourner pour la regarder. Après quelques instants qui semblèrent durer une éternité, la porte de la chambre de Talik claqua doucement.
-
-— Maître… je suis désolé. Je ne sais pas ce qu’il me prend. Je n’ai pas…
-
-— L’habitude d’échouer ?
-
-Sa voix était lointaine, comme si la porte était plus épaisse qu’un rocher.
-
-— Je ne voulais pas vous offenser.
-
-— La pure magie. Tu voulais savoir ce qui me faisait sourire. C’est la pure magie. La magie fait partie de chaque être animé ou inanimé. Mais la pure magie, la magie libre. C’est comme si les frontières de mon… corps… se brouillaient, disparaissaient avec tout ce qu'il porte, tout ce qu'il a vécu. Je m’y sens chez moi plus que nulle part ailleurs. Je sais que des gens vont souffrir et quand c’est terminé la sensation de vide est encore plus forte. Il n’y a que ces quelques secondes de chaos où je ne me sens pas misérable. (Un silence.) Je suis désolée, Sarosh. Je m’apitoie encore sur mon sort alors que c’est toi qui as besoin de soutien. Tu es un bon soldat et tu as ce qu’il faut pour être un grand mage. Si le monde te le permet un jour, je souhaite que tu puisses faire ton choix.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ma maîtresse était ainsi. Une tombe, la plupart du temps, puis, à de rares occasions, les vannes s’ouvraient. Et l’on avait tendance à le regretter l’ignorance qui l’avait précédé. À chaque fois qu’elle se livrait, elle paraissait un peu plus distante. Elle s’enfonçait un peu plus profondément dans un abîme inaccessible, ou bien l’y était-elle déjà sans qu’on le sache ? Peu importait, car nous étions celui ou celle qui avaient ouvert une porte qu’elle souhaitait garder close. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;Mon échec, car c’était de ça qu’il s’agissait, était insignifiant à présent. Ma colère s’était muée en honte et je me retins de frapper mon idiote de tête contre la porte.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Un cliquetis de vaisselle annonçait le retour du serviteur avec le thé. Était-il parti longtemps ou est-ce que la situation avait dérapé en seulement quelques minutes ? Je me retournai et tâchai de paraître nonchalant auprès du domestique.
-
-— Posez le thé ici, je servirais moi-même Maître Talik.
-
-— Bien, monsieur.
-
-Ce dernier s'exécuta et se retira poliment.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Je m’assis sur le tapis et fis couler le thé dans ma tasse.
-
-— Une tasse de thé nous fera le plus grand bien à tous les deux. Et une bonne nuit de sommeil fera le reste. Venez, Maître. 
-
-La porte s’entrouvrit doucement. Je détournai le regard et fixai ma tasse pour ne pas la gêner. Je manquais de renverser ma tasse quand, au lieu de reprendre sa place devant moi, elle s’assit à côté de moi et bascula sa tête sur ma cuisse. Je la regardai, interdit, tandis qu’elle fixait le mur en face de nous. Puis, comme un petit animal, elle se blottit un peu plus contre ma jambe et ferma les yeux.
-
-— S’il te plait, juste un peu. Je suis si fatiguée... Raconte-moi le dernier livre que tu as lu.
-
-Un lointain souvenir ressurgit. J’avais souvent été dans la même situation, la tête sur les genoux de mère qui me racontait des histoires tout en caressant doucement les cheveux. De brefs moments de paix après une longue journée entre précepteurs et maître d’armes.
-
-J’inspirai doucement et débutai mon récit. La rigueur militaire du traité que j'étudiais était en parfait décalage avec la situation au point de paraitre absurde. Mais Talik ne se plaignit pas.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Quand sa respiration se fit plus lente, je retirais doucement ma jambe pour la remplacer par l’un des coussins alentour. Profondément endormie, elle ne bougea pas. Après l’avoir recouvert d’une couverture, j’éteignis la lumière et quittai la pièce. 
-
-— Maître Talik s’est endormi dans le salon, veillé à ne pas la réveiller, elle a besoin de repos.
-Le domestique en poste devant ses appartements acquiesça d’un signe de tête.
+&nbsp;&nbsp;&nbsp;&nbsp;C’était une journée exécrable. L’automne avait amené une pluie froide et poisseuse sur l’île aux épines et les fleurs accrochées dans les rues s'étiolaient sur les pavés. Mais j’étais de si bonne humeur que même cette déplorable météo ne pouvait éclipser le soleil dans mon coeur.
+— J’y pense, tu sais ce qu’il va se passer, Timothéa ? Raconte-moi, je t’en prie !
+Assise devant ma coiffeuse, je ne tenais pas en place et gesticulais dans tous les sens. Ma cousine et dame de compagnie soupirait en tapotant la brosse à cheveux sur sa cuisse.
+— Néméïs, si tu tiens tranquille, je veux bien t’en dire plus. Tu ne pourras jamais assister à la Révélation si je n’arrive pas à discipliner ces cheveux !
+Je me raidis et envoyais son plus beau sourire au miroir.
+— Bien, reprit Timothéa. J’avais 7 ans quand j’y ai participé, alors je ne me souviens pas de tout. Ce dont je me rappelle bien, c’est la queue interminable avant d'apparaître devant le mage.
+— Alors il y aura bien un mage, un vrai !
+Timothéa tira un petit coup sur la mèche de cheveux qu’elle avait en main, me rappelant de ne plus bouger.
+— Tu poses tes mains sur un objet et le mage te regarde avec un épais monocle. Puis il te donne un papier de couleur.
+Elle terminait une longue natte complexe parsemé de fleurs blanches.
+— Et c’est tout ? L’objet faisait de la lumière ? Le mage était-il auréolé d’une lueur étrange ?
+— Rien de tout ça, ma cousine. Il aurait tout aussi bien pu être un bureaucrate avec des goûts vestimentaires originales.
+— Et ton papier, il était de quel couleur ?
+— Blanc. Ceux avec du potentiel magique en obtienne un bleu. Je crois bien qu’une seule personne a obtenu le papier bleu ce jour là.
+— Qu’est-ce qu’il lui est arrivé ?
+— A l’époque, je n’en savais rien. Maintenant, je dirais qu’il a été transféré à Nev pour étudier à l’Académie.
+J’étais surexcitée par la simple mention de l’Académie de Nev, cadeau du protectorat au peuple d’Orianesse. Le seul endroit où la magie était enseigné sur toute la planète. Je me levais sans s’en rendre compte.
+— Tu ferais quoi si tu recevais le papier bleu ? demanda Timothéa.
+Je restais sans voix. Cette perspective ne m’avait jamais effleuré, tout ce que je voulais c’était voir de la vraie magie, comme dans les livres d’Histoire et d’aventures.
+
+	Faélan attendait patiemment devant la porte de mes appartements. Mon frère s’était immédiatement proposer pour l’accompagner à l’évènement. Ce qui ne surpris guère tant il m’était dévoué. C’est à son bras que je passais les portes du palais de la cité d’Enys Dreyn. Un carrosse nous attendait. Le laquet se précipita pour me couvrir d’un parapluie.
+— Princesse, Prince, veuillez monter, s’il vous plaît.
+Le temple était tout proche, je n’eus que peu de temps pour penser à la question de ma cousine qui me trottait toujours dans la tête.
+Malgré les averses, la ville était en fête. La statue aux quatres visages qui trônait sur le parvis du temple était recouvert de fleurs et d’étoffes. A ses pieds, les offrandes s’amoncelaient jusqu’à masquer son pied d'estale. Le reste de l’esplanade était bondé, le chauffeur dû s’époumoner pour obtenir un passage jusqu’à l’entrée même du temple.
+Faélan m’aida à descendre puis me guida jusqu’aux portes grandes ouvertes du temple. En haut d’une volée de marches, deux gardes de pierre surveillaient l’entrée. Ils m’impressionnaient tant que je m’arrêtais toujours pour les observer. Ils portaient les traits du peuple Hégol, ces êtres venues d’au-delà du ciel qui ont apporté le savoir magique et divin aux humains.
+— Néméïs, allons-y, la pressa son frère.
+A contrecoeur, je m’arrachais à ma contemplation. Si j’avais hâte de voir un mage, je rêvais d’apercevoir un jour un hégol de mes propres yeux. Aucune délégation du protectorat n’était jamais venu dans la petite cité-état d’Enys Dreyn, sûrement qu’il n’y mettrait jamais les pieds.
+
+	La chaleur des braseros illumine mon coeur, mais l’inquiétude vint s’ajouter à mes sentiments. Si je recevais ce papier blanc, je reprendrais simplement ma vie. Si je recevais le papier bleu, je pourrais aller à Nev. Qu’espérais-je vraiment ?
+— Ne t’inquiètes pas, cher soeur. 
+Je serrais si fort le bras de mon frère, que j’avais froissé sa veste.
+— Oh, pardonne moi, Faélan.
+Nous avançames de quelques pas dans la file et fûmes à portée de voix du premier orateur.
+— Vous qui en ce jour franchissez les portes de ce lieu sacré, soyez en paix car le peuple élu veille sur vous ! Dans sa grande bonté, il vous offre la chance d'accéder aux savoirs supérieurs auxquels les dieux vous ont destiné. N’ayez crainte, car vous êtes les enfants du peuple élu ! Du roi au plus humble des mendiants, nul ne s’opposera à la volonté divine car il en est ainsi.
+Il continua ainsi, encensant le protectorat d’une ferveur toute religieuse. Après plusieurs dizaines de minutes et autant d’orateurs, j’aperçus enfin plus distinctement l’autel et le mage installé devant. L’épuisement de l’attente s’envola pour laisser place à l’impatience.
+— Nous y sommes presque, Faélan !
+Celui-ci était aux aguets comme un loup prêt à bondir, je posais doucement sa tête sur son épaule qui se détendit.
+
+Comme l’avait dit Timothéa, le mage n’avait rien d’exceptionnel, si ce n’était son épais monocle et sa robe de maitre. Avec lassitude, il me remit une pierre bleu.
+— Ne bouger pas, s’il vous plait. 
+Il leva les yeux sur moi puis tendit la main vers un petit tas de papiers blancs, mais celle-ci s’arrêta en chemin. Il fronça les sourcils, ajusta de minuscules molettes sur son monocle. 
+— Quelque chose ne va pas ? demandais-je avec inquiétude.
+Il toussota et se redressa, ramenant un peu de vie dans son attitude.
+— Tout va bien, parfaitement bien. Tenez.
+Il sortit de sa poche un petit papier bleu.
+— Pour vous, ce sera sur la gauche. Félicitations.
+Je me figeais de surprise.
+— Pardon ? demanda Faélan. Que voulez-vous dire ?
+Mais déjà on se pressait derrière nous. Le mage les invita à s’en aller avec de grands gestes et un petit sourire fatigué.
+	Je tenais son papier comme s’il risquait de s’envoler. Ce n’était qu’un simple papier bleu marqué d’un sceau doré. Je n’arrivais juste pas à y croire. Mon frère non plus. Il avait passé son bras par dessus mon épaule, comme si je aussi risquais de m’envoler.
+— Oh, on a une candidate ! Entre mon enfant, dit un vieille homme aux lunettes minuscules. 
+Il ne portait pas la robe des mages, mais un pendentif avec le même symbole que sur le papier bleu.
+— Je vais avoir besoin de quelques informations pour les registres et pour rédiger ton autorisation à te présenter au département de magie de l’Académie. Assis toi donc, il y en a pour un moment, je ne suis plus si vif que ça.
+Faélan toussa.
+— Je vous prierais de vous adresser à elle en suivant le protocole. Vous êtes en présence de la princesse Néméïs d’Enys Dreyn.
+— D’Enys Dreyn ? Oh, oui. C’est là où nous sommes. Pardonnez moi, princesse. Je n’avais pas idée de celle qui se trouvait devant moi. 
+Je n’écoutais qu’à demi la conversation, j’étais encore sonnée par la nouvelle. Mon frère s’occupa de fournir les informations nécessaires à définir son identité, mais quand le secrétaire débuta la rédaction de l’autorisation, il l’interpella.
+— Vous me confirmez qu’il n’est nullement obligatoire pour elle de rejoindre l’Académie, n’est-ce pas ?
+— Euh, et bien, tout à fait. Une place lui est automatiquement réservée et elle peut se défaire de n’importe quel responsabilité avec la bénédiction du peuple élu. Mais nous avons plutôt l’habitude de recevoir de jeunes enfants, ce qui pose moins de problème. Je comprends que cela peut perturber l’avenir qui lui a été préparé. Je dois néanmoins qu’avec cette autorisation, elle acquiert aussi son indépendance officielle de tout homme et tout ce que cela implique. Vous comprenez ce que cela implique, princesse ?
+— Oui, répondis-je sans réfléchir.
+Je n’en avais aucune idée, ou plutôt mon cerveau était devenu incapable de quelques réflexions que ce soit. J’avais hâte de retourner dans ma chambre pour en parler à Timothéa.
+
+	La pluie s’était faite simple bruine et les embruns venant du sud apportaient l’odeur du sel jusque dans mon petit salon. Nous sirotions un jus de fruit tout en dégustant de petits biscuits fourrés.
+— Je n’aurais jamais imaginé être la cousine d’une mage ! gloussa Timothéa. 
+— Je… je ne sais pas encore si je vais y aller.
+— Quoi ? Mais tu le dois ! C’est une chance inespérée pour toi !
+— Vraiment ?
+Tout ce que je concevais jusque là, c’était que j’allais devoir quitter ma famille et ma cité.
+— Mais oui, la vie à Nev doit être tout autre chose. Et puis tu as toujours été curieuse de cette Académie. Et je ne parle pas de la magie. 
+Elle était enthousiaste, je n’arrivais pas à comprendre pourquoi.
+— Mais je devrais m’en aller. Oh, je devrais te quitter toi aussi !
+Je lui pris les mains avec empressement. 
+— Ne t’inquiète pas, ma cousine. Je n’ai aucun doute que mon père et le tien s’accorderont pour que je t’accompagne là bas. Ne serais-ce que dans la perspective de trouver un bon partie.
+— Un mage ? 
+Elle gloussa pour toute réponse. Ses joues prirent un ton écarlate. Je me détendis et ris à mon tour.
+— Alors tu ne viendrais pas pour moi, mais pour trouver un mari ? dis-je en feignant d’être offensée.
+— Oh, non. Je viendrais surtout pour être avec toi et te voir devenir une femme indépendante. C’est une chance incroyable que tu as. 
+— Je ne sais pas trop. Et puis, pourrais-je quitter ma famille.
+— Il est vrai que Faélan aura du mal à l’accepter. Mais il doit apprendre que tu es devenu une femme et qu’il se doit d’en trouver une. Ce n’est plus un garçonnet non plus.
+Je lui donnais une petite tape sur la main en la voyant rougir à nouveau.
+— Je te reprends à avoir de mauvaise pensée, ma cousine, lui lançais-je.
+— Comment pourrait-il en être autrement ? répondit-elle avec malice. Mais ne change pas de sujet, tu dois y aller. Au moins pour essayer. Et ça ne te plait pas, tu pourras toujours revenir à Enys Dreyn.
+— Et tu seras avec moi ?
+— Je ferais tout pour, ma chère cousine.
+
+	Quand j’annonçais ma décision lors du dîner, mon frère eut tout le mal du monde à ne pas exploser. Je le voyais à sa manière de maltraité sa serviette qu’il étouffait dans son poing serré. Je posais ma main sur la sienne.
+— Ne sois pas en colère, mon frère. Et rassure-toi, vous quittez ne m’est pas aisé, je viendrais vous voir aussi souvent qu’il me sera permis de le faire.
+Notre père prit enfin la parole, le silence se fit immédiat.
+— Si telle sa décision, je lui accorde ma bénédiction, mon fils. Je t’invite à faire de même. Ce n’est pas une situation facile pour une femme, mais je sais que Néméïs s’en sortira très bien.
+— Ton père a raison, si les dieux lui ont donnés ce cadeau, il serait offensant de ne pas l’utiliser.
+Faélan ferma les yeux et prit une grande inspiration. Garder son sang-froid n’était pas chose aisé pour lui.
+— Je sais que ma soeur fera une excellente magicienne, mais j’exprimerais uniquement mes doutes concernant la vie qui l’accompagne. Je crains que Nev ne soit pas à la hauteur. Pour cela, je demanderais simplement de me joindre à son voyage pour m’assurer de son bien-être.
+Il fixa son assiette, tremblant légèrement.
+— Je serais si heureuse que tu…
+— Faélan, coupa mon père. Tu n’es plus un enfant, ni ta soeur. Tu dois prendre tes responsabilités, tu ne peux plus la suivre comme tu le fais et délaisser ton devoir.
+Mon frère dégagea sa main de la mienne et se leva de sa chaise, toujours les yeux baissés. Mais avant même qu’il ne prononce un mot qu’il aurait sûrement regretté, ma mère prit la parole.
+— Mon époux, je comprends ta position. Tu as tout à fait raison, mais sache que je partage son inquiétude quant à laisser Néméïs livré à elle-même aussi brutalement dans un royaume aussi loin de nous sans une personne de confiance.
+Mon père jaugea son épouse du regard avant de répondre.
+— Timothéa pourra l’accompagner.
+— Mais…, commença Faélan.
+— Timothéa est une gentille fille, reprit ma mère. Mais lui confierais-tu l’avenir de ta fille ?
+Mon père se radoucit et ceda.
+— Puisque ta mère insiste, j’accepte que tu l’accompagne. Un mois, pas un jour de plus. Après cela, je veux que tu acceptes ton rôle sans discuter.
+Mon frère déserra ses poings blanchit et se rassit doucement.
+— C’est entendu, père.
+Je ne le dirais pas autrement, j’étais plus qu’heureuse et l’exprimais par le grand de mes sourires.
 
 
 
