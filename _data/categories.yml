@@ -4,8 +4,8 @@
 - name: Nouvelles des Sphères
   category: sas
   color: '#333333'
-- name: L'Oiseau de Mort
-  category: oiseaudemort
+- name: Extraits de romans
+  category: roman
   color: '#333333'
 - name: Autres histoires
   category: random
