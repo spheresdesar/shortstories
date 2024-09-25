@@ -11,9 +11,6 @@ category: roman
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*— Extraits du journal de bord du laboratoire de Jena de Nev*
 
 
-<p style="text-align: center;">🜘</p>
-	
-
 &nbsp;&nbsp;&nbsp;&nbsp;J’ajustai d’un demi-point le calibrage du condensateur. Nous avions joué cette expérience une dizaine de fois, nous connaissions déjà les résultats, mais tout devait être parfait. 
 
 
@@ -59,9 +56,6 @@ Je me détendis et lui assénai une tape amicale sur l’épaule.
 
 — Plus si jeune.
 
-
-<p style="text-align: center;">🜘</p>
-
 	
 &nbsp;&nbsp;&nbsp;&nbsp;Le soleil dominait le ciel de Nev. L’été s’était installé et l’on flânait sur les bancs pour le déjeuner. La main en visière pour me protéger de la lumière aveuglante, je me glissai dans le flot grouillant qui remplissait les allées de l’Académie. Mon chez-moi. 
 
@@ -104,9 +98,6 @@ Je baissai la tête. Je n’avais pas envisagé que ma préparation pouvait l’
 Elle secoua la tête avec un sourire, sans aucune trace de rancune dans son regard.
 
 — Tu ne changeras jamais. 
-
-
-<p style="text-align: center;">🜘</p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Des professeurs et des mages emplirent à leur tour le réfectoire. Corvin comptait parmi les mages les plus modestes que j’avais pu rencontrer. Ceux qui se massaient près des cuisines portaient de grandes capes décorées d’anciennes runes ou des couleurs criardes de leur domaine d’expertise. Les femmes étaient rares, comme dans toute position octroyant du pouvoir.
@@ -176,9 +167,6 @@ Autant de naïveté chez une assistante de laboratoire m’impressionnait. J’a
 — Tant que ça te convient, dis-je malgré tout.
 
 Son visage s’illumina et mon propre sourire se fit plus sincère. Après tout, son bonheur était plus important que mes convictions. Et si ce mage lui faisait du mal, j’étais prête à m’occuper personnellement de son cas.
-
-
-<p style="text-align: center;">🜘</p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Mes pas me menèrent jusqu’au bureau du directeur Eogan. J’espérais que sa présence apaiserait mon esprit lancé à pleine vitesse. L’observateur Devadas s’entretenait avec lui. C’était en quelque sorte l’ambassadeur de la Grande Académie de Yankasha et le premier interlocuteur du Protectorat concernant les affaires d’Orianesse. 
@@ -254,9 +242,6 @@ Le directeur n’était pas mon véritable père. Pourtant, je l’aimais comme 
 Il déposa un baiser sur mes cheveux.
 
 — Rentre te reposer. Demain sera vite là.
-
-
-<p style="text-align: center;">🜘</p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ma chambre se situait au bout de l’aile des résidents titulaires, à l’opposé des logements occupés par les mages et les invités. C’était une large pièce remplie de livres et de rapports d’expériences. Mais contrairement à toutes les autres, elle était équipée d’une lampe à huile, d’un petit poêle à bois et d’une horloge mécanique. Ces objets se rencontraient plus couramment dans les campagnes reculées qu’à l’épicentre de la culture magique de la sphère Orianesse. 
