@@ -24,5 +24,9 @@ layout: default
 	{% endcase %}
 	{{ page.date | date: "%Y" }}
 	</span>
+
+	<p><i>{{ page.epigraphe-content }}</i></p>
+	<p style="text-align: right;"><i>{{ page.epigraphe-source }}</i></p>
+
   {{ content | remove_first: '&lt;!--more--&gt;'}}
 </div>

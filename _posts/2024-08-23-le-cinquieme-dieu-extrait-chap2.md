@@ -3,13 +3,9 @@ layout: post
 title: Le Cinquième Dieu - Extrait du Chapitre 2
 date: 2024-08-23 00:00:00 -0700
 category: roman
+epigraphe-content: “Le consensus actuel admet deux vérités. Tout d’abord, les quatre forces magiques fondamentales, Ar, Sil, No et El sont distinctes et interagissent selon le modèle combinatoire. Ensuite, tout n’est qu’échange et accumulation comme décrits dans la loi de conservation. Si, par notre expérience, nous sommes capables de transgresser l’une de ces deux vérités, cela démontrera l’importance, voire la nécessité, d’explorer des alternatives aux théories traditionnelles.”
+epigraphe-source: — Extraits du journal de bord du laboratoire de Jena de Nev
 ---
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;*“Le consensus actuel admet deux vérités. Tout d’abord, les quatre forces magiques fondamentales, Ar, Sil, No et El sont distinctes et interagissent selon le modèle combinatoire. Ensuite, tout n’est qu’échange et accumulation comme décrits dans la loi de conservation. Si, par notre expérience, nous sommes capables de transgresser l’une de ces deux vérités, cela démontrera l’importance, voire la nécessité, d’explorer des alternatives aux théories traditionnelles.”*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*— Extraits du journal de bord du laboratoire de Jena de Nev*
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;J’ajustai d’un demi-point le calibrage du condensateur. Nous avions joué cette expérience une dizaine de fois, nous connaissions déjà les résultats, mais tout devait être parfait. 
 
