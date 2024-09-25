@@ -42,7 +42,7 @@ J’étais surexcitée par la simple mention de l’Académie de Nev, cadeau du 
 
 — Tu ferais quoi si tu recevais le papier bleu ? demanda Timothéa.
 
-Je restais sans voix. Cette perspective ne m’avait jamais effleuré, tout ce que je voulais c’était voir de la vraie magie, comme dans les livres d’Histoire et d’aventures.
+Je restais sans voix. Cette perspective ne m’avait jamais effleuré, tout ce que je voulais c’était voir de la vraie magie, comme dans les livres d’Histoire et d’aventures.<!--more-->
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Faélan attendait patiemment devant la porte de mes appartements. Mon frère s’était immédiatement proposer pour l’accompagner à l’évènement. Ce qui ne surpris guère tant il m’était dévoué. C’est à son bras que je passais les portes du palais de la cité d’Enys Dreyn. Un carrosse nous attendait. Le laquet se précipita pour me couvrir d’un parapluie.
