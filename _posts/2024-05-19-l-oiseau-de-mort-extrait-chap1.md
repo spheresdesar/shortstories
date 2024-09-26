@@ -4,7 +4,9 @@ title: L'Oiseau de Mort - Extrait du Chapitre 1
 date: 2024-05-19 00:00:00 -0700
 category: roman
 epigraphe-content: "Par deux fois, je suis née dans les flammes. 
-Et la Mort, dans son sillage, a laissé des marques indélébiles sur mon âme. 
+
+Et la Mort, dans son sillage, a laissé des marques indélébiles sur mon âme.
+
 Pourquoi me refuse-t-Elle quand je la prie de tout mon cœur ?"
 epigraphe-source: — Les pas de Mukariq, par Sarosh Ka Hassan
 ---
