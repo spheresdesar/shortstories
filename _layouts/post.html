@@ -28,5 +28,7 @@ layout: default
 	<p><i>&nbsp;&nbsp;&nbsp;&nbsp;{{ page.epigraphe-content }}</i></p>
 	<p style="text-align: right;"><i>{{ page.epigraphe-source }}</i></p>
 
-  {{ content | remove_first: '&lt;!--more--&gt;'}}
+	<div style='text-align: justify;'>
+  	{{ content | remove_first: '&lt;!--more--&gt;'}}
+	</div>
 </div>
