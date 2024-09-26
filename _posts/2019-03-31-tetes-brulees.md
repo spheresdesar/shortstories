@@ -29,7 +29,7 @@ Samuel pouffa.
 
 — D’abord, j’suis ingénieure, banane. Ce machin, je le connais mieux que toi. Et puis c’est toi qui es venu me chercher en premier lieu. Alors si ma solution te convient pas, j’me casse.
 
-— Je t’ai demandé d’améliorer ma vitesse, pas d’en faire une fusée !
+— Je t’ai demandé d’améliorer ma vitesse, pas d’en faire une fusée !<!--more->
 
 — Et bien, c’est fait. Après, j’t’oblige pas à t’en servir. Maintenant, ciao.
 
