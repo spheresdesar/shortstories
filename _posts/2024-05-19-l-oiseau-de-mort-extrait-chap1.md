@@ -3,14 +3,11 @@ layout: post
 title: L'Oiseau de Mort - Extrait du Chapitre 1
 date: 2024-05-19 00:00:00 -0700
 category: roman
----
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;*Par deux fois, je suis née dans les flammes. 
+epigraphe-content: Par deux fois, je suis née dans les flammes. 
 Et la Mort, dans son sillage, a laissé des marques indélébiles sur mon âme. 
-Pourquoi me refuse-t-Elle quand je la prie de tout mon cœur ?*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*— Les pas de Mukariq, par Sarosh Ka Hassan*
+Pourquoi me refuse-t-Elle quand je la prie de tout mon cœur ?
+epigraphe-source: — Les pas de Mukariq, par Sarosh Ka Hassan
+---
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Fuir. Les pieds meurtris et le ventre vide, j’étais perdue à deux pas du désert. La veille encore, le plus grand de mes soucis était d’échapper à ces fiançailles absurdes. Puis une malédiction inexplicable s’était abattue sur moi pour qu’en l’espace d’une seule journée mon monde se transforme en cauchemar impitoyable. Mes parents étaient morts, ma maison réduite en cendre et mes sens assaillis par d’effrayantes apparitions, tout cela sans que j’en comprenne la raison ou même la cause.
