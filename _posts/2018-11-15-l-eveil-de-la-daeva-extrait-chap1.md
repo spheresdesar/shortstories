@@ -32,7 +32,7 @@ Le texte était long et pompeux, vantant tour à tour le général Odrèk et l�
 
 — Merde ! C’est quoi ces conneries ? Depuis quand l’Académie refuse des élèves de ton potentiel ? Recommandé par le général en plus ! C’est n’importe quoi !
 
-La surprise m’avait sonné. Je n’avais pas imaginé un seul instant le refus.< !--more-->
+La surprise m’avait sonné. Je n’avais pas imaginé un seul instant le refus.<!--more-->
 
 — Il semblerait qu’il soit en pénurie de professeurs à cause des tempêtes.
 
