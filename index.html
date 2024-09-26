@@ -32,7 +32,9 @@ title: Home
       {{ post.date | date: "%Y" }}
     </span>
 
+  <div style='text-align: justify;'>
     {{ post.excerpt }}
+  </div>
 
     {% capture content_words %} 
       {{ post.content | number_of_words }} 
